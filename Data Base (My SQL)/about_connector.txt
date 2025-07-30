@@ -1,0 +1,61 @@
+Thanks for sharing the user and host info. You're right — user `Himanshu` has host value `%`, which **means it's allowed to connect from any host**, but **this is only relevant inside MySQL, not for the Python code.**
+
+---
+
+### 🔍 Important Distinction:
+
+* In **MySQL**, `%` means “any host can connect using this user” (used in `GRANT`, `user@'%'`).
+* In **Python code** (`mysql.connector.connect()`), you must specify the actual hostname or IP where the MySQL server is running.
+
+---
+
+### ✅ So you should do the following:
+
+If you are running the Python script on **the same machine** where MySQL is installed (which is most common), your connection code should be:
+
+```python
+mydb = mc.connect(
+    host='localhost',     # Or use 127.0.0.1
+    user='Himanshu',
+    password='Himanshu2006'
+)
+```
+
+---
+
+### ✅ If MySQL is on a **remote server**, use:
+
+```python
+mydb = mc.connect(
+    host='192.168.x.x',  # IP address of the MySQL server
+    user='Himanshu',
+    password='Himanshu2006'
+)
+```
+
+---
+
+### ✅ To verify if the user has permission to create a database:
+
+Run this SQL in MySQL:
+
+```sql
+SHOW GRANTS FOR 'Himanshu'@'%';
+```
+
+If it includes something like:
+
+```sql
+GRANT ALL PRIVILEGES ON *.* ...
+```
+
+or
+
+```sql
+GRANT CREATE ON *.* ...
+```
+
+then you're good.
+
+---
+

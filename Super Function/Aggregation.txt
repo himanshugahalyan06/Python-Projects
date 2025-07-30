@@ -1,0 +1,72 @@
+Great question! In Object-Oriented Programming (OOP), **aggregation** and **inheritance** are both ways to establish relationships between classes, but they are fundamentally different in how they model those relationships.
+
+---
+
+### ✅ **1. Inheritance** (IS-A relationship)
+
+**Definition**:
+Inheritance is a mechanism where one class (**child or subclass**) inherits the properties and behavior (methods and attributes) of another class (**parent or superclass**).
+
+**Example**:
+
+```python
+class Animal:
+    def make_sound(self):
+        print("Some sound")
+
+class Dog(Animal):  # Dog IS-A Animal
+    def make_sound(self):
+        print("Bark")
+```
+
+Here, `Dog` inherits from `Animal`. This is an **IS-A** relationship:
+✅ A **Dog IS-A Animal**.
+
+---
+
+### ✅ **2. Aggregation** (HAS-A relationship)
+
+**Definition**:
+Aggregation is a special form of association where one class contains a reference to another class. It models a **whole-part** relationship, but both can exist independently.
+
+**Example**:
+
+```python
+class Engine:
+    def start(self):
+        print("Engine started")
+
+class Car:
+    def __init__(self, engine):
+        self.engine = engine  # Car HAS-A Engine
+
+    def start_car(self):
+        self.engine.start()
+```
+
+Here, `Car` has an `Engine`.
+✅ A **Car HAS-A Engine** (aggregation).
+The `Engine` can exist independently of the `Car`.
+
+---
+
+### 🔍 Key Differences Between Inheritance and Aggregation
+
+| Feature             | Inheritance                   | Aggregation                  |
+| ------------------- | ----------------------------- | ---------------------------- |
+| Relationship Type   | IS-A                          | HAS-A                        |
+| Purpose             | Code reuse, polymorphism      | Code modularity, flexibility |
+| Coupling            | Tightly coupled               | Loosely coupled              |
+| Lifetime dependency | Child often depends on parent | Parts can live independently |
+| Example             | Dog IS-A Animal               | Car HAS-A Engine             |
+
+---
+
+### 🧠 When to Use What?
+
+* Use **inheritance** when one class is a more specific version of another (e.g., `Bird` is a `Animal`).
+* Use **aggregation** when one class is made up of or uses another (e.g., `Library` has `Books`).
+
+---
+
+

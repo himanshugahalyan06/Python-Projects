@@ -1,0 +1,501 @@
+Date,Customer Name,Region,Category,Product,Quantity Sold,Unit Price,Total Price,Discount,Net Sales,Payment Mode
+2025-01-12,Karl Beck,West,Electronics,Headphones,10,80.66,806.6,154.83,651.77,Net Banking
+2024-09-02,Carol Torres,North,Toys,Board Game,1,303.01,303.01,38.02,264.99,UPI
+2024-10-16,Margaret Jackson,South,Toys,Board Game,10,142.89,1428.9,99.12,1329.78,Credit Card
+2025-04-02,Eric Melendez,North,Clothing,T-shirt,1,244.23,244.23,62.94,181.29,UPI
+2024-11-20,Janice Ramos,North,Books,Non-Fiction,9,436.63,3929.67,958.87,2970.8,Net Banking
+2025-05-14,Mark Hardy,North,Electronics,Headphones,10,399.91,3999.1,126.86,3872.24,Credit Card
+2024-10-08,Clayton Miller,North,Clothing,Jacket,1,223.55,223.55,32.99,190.56,Cash
+2024-09-06,Jason Wu,North,Electronics,Camera,7,429.91,3009.37,54.55,2954.82,Cash
+2025-05-29,Stephen Wilcox,West,Home & Kitchen,Toaster,8,371.15,2969.2,631.1,2338.1,Credit Card
+2024-10-14,Patty Gibbs,West,Toys,Doll,5,222.19,1110.95,174.01,936.94,Debit Card
+2025-05-21,Zachary Hubbard,North,Books,Fiction,6,40.95,245.7,59.35,186.35,Net Banking
+2025-04-16,Nicole Jones,North,Books,Comics,9,452.12,4069.08,245.27,3823.81,Credit Card
+2025-06-10,Brenda Acosta,South,Books,Fiction,2,16.52,33.04,0.07,32.97,Net Banking
+2025-05-26,Cassidy Rich,North,Books,Biography,6,194.91,1169.46,195.51,973.95,Cash
+2025-05-21,Vanessa Wall,North,Clothing,Dress,5,105.06,525.3,70.04,455.26,Cash
+2024-11-16,John Montgomery,South,Home & Kitchen,Blender,8,195.21,1561.68,263.55,1298.13,UPI
+2025-02-26,Lisa Davis,South,Books,Fiction,10,14.46,144.6,16.27,128.33,UPI
+2025-04-01,Miguel Chandler,East,Home & Kitchen,Toaster,3,395.72,1187.16,35.72,1151.44,Cash
+2024-10-15,Robert Evans,West,Toys,Board Game,4,213.51,854.04,101.52,752.52,UPI
+2024-12-24,Patricia Mccann,West,Toys,Board Game,4,461.03,1844.12,429.52,1414.6,Debit Card
+2024-11-07,Mckenzie Herman,East,Home & Kitchen,Toaster,2,28.86,57.72,3.96,53.76,Debit Card
+2025-02-01,Sandra Williams,East,Home & Kitchen,Blender,8,312.34,2498.72,446.04,2052.68,Debit Card
+2024-12-03,Gloria Bowers,South,Books,Comics,9,260.01,2340.09,199.75,2140.34,UPI
+2024-12-13,Sharon Parsons,North,Home & Kitchen,Cookware,6,387.31,2323.86,565.78,1758.08,Credit Card
+2024-09-04,Joshua Johnson,North,Clothing,T-shirt,2,223.83,447.66,106.81,340.85,Credit Card
+2024-09-05,Larry Swanson,South,Home & Kitchen,Blender,3,374.58,1123.74,29.5,1094.24,UPI
+2025-07-21,Erin Wilson,East,Books,Comics,7,285.23,1996.61,23.76,1972.85,Debit Card
+2024-09-20,Jenna Moreno,West,Electronics,Camera,1,437.32,437.32,107.42,329.9,UPI
+2025-02-10,Mallory Cooper,East,Electronics,Camera,10,224.51,2245.1,32.12,2212.98,Credit Card
+2025-05-01,Andre Dunn,East,Home & Kitchen,Toaster,8,324.27,2594.16,260.74,2333.42,Cash
+2024-08-23,Mark Stephens,South,Home & Kitchen,Cookware,10,422.69,4226.9,772.22,3454.68,Credit Card
+2025-01-19,Daniel Bolton,North,Clothing,Jeans,9,146.09,1314.81,30.04,1284.77,Cash
+2025-02-08,Amanda Martinez,North,Home & Kitchen,Mixer,4,224.19,896.76,178.11,718.65,UPI
+2024-10-21,Daniel Jackson,North,Clothing,T-shirt,10,478.46,4784.6,313.58,4471.02,Net Banking
+2025-07-12,Ryan Salinas,West,Home & Kitchen,Cookware,2,465.74,931.48,23.68,907.8,Cash
+2025-02-22,Mrs. Tonya Cruz,East,Electronics,Smartphone,1,128.38,128.38,11.42,116.96,UPI
+2024-09-09,Michael Mack,South,Home & Kitchen,Cookware,9,101.02,909.18,25.02,884.16,Debit Card
+2024-07-29,Amanda Daugherty,East,Books,Non-Fiction,9,112.29,1010.61,256.11,754.5,Credit Card
+2024-08-27,Patricia Martinez,West,Electronics,Camera,10,273.47,2734.7,668.35,2066.35,Cash
+2025-06-13,Elizabeth Glover,North,Toys,Board Game,1,166.56,166.56,20.99,145.57,Net Banking
+2025-04-22,David Morgan,North,Clothing,Jeans,10,366.01,3660.1,437.5,3222.6,Net Banking
+2024-09-26,Nicholas Jackson,West,Clothing,Dress,1,439.97,439.97,14.86,425.11,Net Banking
+2024-09-18,Haley Garcia,North,Toys,Action Figure,2,189.88,379.76,98.32,281.44,Net Banking
+2024-11-02,Michael Dodson,North,Toys,Action Figure,1,272.18,272.18,76.53,195.65,UPI
+2024-10-25,Kimberly Mcbride,North,Home & Kitchen,Toaster,7,256.01,1792.07,498.59,1293.48,Debit Card
+2025-05-10,Wendy Gilmore,West,Toys,Doll,9,279.32,2513.88,672.89,1840.99,Net Banking
+2025-02-27,Joshua Espinoza,West,Home & Kitchen,Toaster,4,347.01,1388.04,377.0,1011.04,Cash
+2025-01-15,Jennifer Ayala,North,Electronics,Camera,9,137.43,1236.87,214.89,1021.98,Cash
+2025-01-06,Nancy Marsh,West,Books,Biography,9,469.29,4223.61,1209.56,3014.05,UPI
+2025-01-19,Wanda Perez,East,Toys,Board Game,6,439.44,2636.64,613.67,2022.97,Credit Card
+2024-12-23,Dennis Brown,West,Home & Kitchen,Cookware,2,496.06,992.12,174.0,818.12,Debit Card
+2025-03-21,Dr. Mark Strickland,East,Books,Biography,10,344.63,3446.3,503.97,2942.33,Debit Card
+2025-03-23,Jill Cantrell,West,Clothing,Dress,4,264.23,1056.92,238.87,818.05,Cash
+2025-04-13,Michael Walker,North,Toys,Doll,7,180.71,1264.97,351.54,913.43,Net Banking
+2024-11-03,Ashley Salinas,East,Electronics,Laptop,2,186.91,373.82,92.84,280.98,UPI
+2025-05-01,Maureen Lee,South,Clothing,Jeans,8,460.62,3684.96,448.54,3236.42,UPI
+2024-10-02,Cheryl Martinez,East,Toys,Action Figure,9,223.35,2010.15,157.46,1852.69,Credit Card
+2024-12-03,Nicole Johnson,South,Home & Kitchen,Toaster,3,383.6,1150.8,235.37,915.43,Cash
+2024-10-18,Garrett Wright,East,Books,Non-Fiction,2,460.16,920.32,16.0,904.32,UPI
+2024-10-11,Calvin Jackson,West,Books,Biography,9,85.22,766.98,19.19,747.79,Net Banking
+2025-05-20,Joel Gordon,South,Electronics,Smartphone,4,264.14,1056.56,126.2,930.36,UPI
+2025-06-24,Lisa Roberson,East,Toys,Doll,5,402.93,2014.65,106.56,1908.09,UPI
+2025-03-17,Michael Hickman,West,Clothing,Dress,4,468.89,1875.56,509.34,1366.22,Debit Card
+2024-10-06,Jessica Dougherty,South,Electronics,Headphones,2,108.33,216.66,30.43,186.23,Credit Card
+2024-09-25,Joe Hendrix,East,Books,Biography,9,393.51,3541.59,670.13,2871.46,Credit Card
+2024-10-20,Ryan Whitaker,North,Toys,Puzzle,10,431.56,4315.6,733.09,3582.51,Cash
+2025-03-26,David Smith,North,Books,Fiction,7,395.22,2766.54,434.97,2331.57,UPI
+2024-12-20,Michael Wright,South,Toys,Action Figure,3,51.83,155.49,9.22,146.27,Cash
+2025-01-15,Jane Cook,East,Home & Kitchen,Blender,8,161.23,1289.84,226.32,1063.52,Credit Card
+2024-12-24,Carolyn White,South,Books,Comics,8,478.66,3829.28,1106.91,2722.37,Cash
+2024-09-17,Casey Curry,East,Electronics,Headphones,9,296.45,2668.05,27.8,2640.25,Net Banking
+2024-09-06,Eric Haynes,West,Clothing,Jeans,10,429.28,4292.8,922.58,3370.22,Net Banking
+2025-05-10,Nicole Ramos,North,Toys,Board Game,5,30.17,150.85,6.85,144.0,Credit Card
+2024-11-06,Laura Mills,North,Home & Kitchen,Toaster,9,267.23,2405.07,672.27,1732.8,Debit Card
+2025-07-02,Ryan Martin,West,Books,Comics,9,258.69,2328.21,284.67,2043.54,Credit Card
+2025-04-07,Sarah Miller,West,Clothing,Dress,1,40.32,40.32,11.65,28.67,Debit Card
+2024-08-30,Javier Garza,West,Electronics,Camera,2,444.94,889.88,85.81,804.07,Net Banking
+2024-07-27,Joseph Allen,East,Toys,Puzzle,4,50.61,202.44,56.02,146.42,Debit Card
+2025-05-01,Benjamin Brown,South,Books,Comics,6,25.56,153.36,37.8,115.56,Credit Card
+2025-03-09,Jonathan Solis,East,Toys,Action Figure,3,104.19,312.57,14.12,298.45,Net Banking
+2024-08-26,Hannah Anderson,West,Toys,Puzzle,1,126.6,126.6,5.19,121.41,UPI
+2024-10-15,Sierra Brown,West,Clothing,Dress,10,223.56,2235.6,340.8,1894.8,Cash
+2024-12-12,Joshua Young,North,Books,Comics,9,326.51,2938.59,525.66,2412.93,UPI
+2025-01-24,Mary Mayer,East,Books,Comics,7,194.82,1363.74,324.8,1038.94,Cash
+2024-12-16,Rebecca Molina,South,Books,Biography,4,26.76,107.04,13.48,93.56,Net Banking
+2025-05-10,Monica Tate,South,Books,Comics,10,243.84,2438.4,102.92,2335.48,UPI
+2025-07-11,Susan Johnson,South,Clothing,T-shirt,10,11.9,119.0,21.93,97.07,Credit Card
+2025-06-13,Jane Baldwin,East,Electronics,Camera,3,343.56,1030.68,101.95,928.73,Debit Card
+2025-04-19,Amy Owens,South,Books,Comics,8,240.37,1922.96,381.78,1541.18,Debit Card
+2024-07-27,Kevin Salas,South,Home & Kitchen,Toaster,10,337.73,3377.3,512.5,2864.8,UPI
+2024-10-13,Austin Choi,West,Clothing,Dress,8,96.02,768.16,219.96,548.2,Credit Card
+2024-11-09,David Fox,West,Electronics,Laptop,10,20.65,206.5,23.33,183.17,UPI
+2025-07-15,Jonathan Perez,East,Books,Biography,4,39.14,156.56,21.52,135.04,Net Banking
+2025-03-04,Natasha Evans,West,Clothing,T-shirt,3,184.3,552.9,125.73,427.17,Debit Card
+2024-12-22,Devin Smith,East,Home & Kitchen,Blender,7,36.99,258.93,72.33,186.6,Debit Card
+2024-12-03,Timothy Daniels,South,Electronics,Headphones,7,195.99,1371.93,400.63,971.3,Cash
+2025-04-09,Holly Santiago,North,Home & Kitchen,Cookware,10,236.21,2362.1,195.42,2166.68,Debit Card
+2025-04-30,Kevin Cross,West,Clothing,Jeans,7,55.6,389.2,0.97,388.23,Credit Card
+2024-09-18,John Cook,East,Clothing,Dress,3,181.28,543.84,45.0,498.84,Cash
+2024-10-03,Patrick Hampton,North,Home & Kitchen,Cookware,8,89.54,716.32,117.08,599.24,Debit Card
+2024-12-29,Matthew Boyer,North,Toys,Board Game,1,150.06,150.06,17.57,132.49,UPI
+2025-04-29,Timothy Edwards,East,Toys,Action Figure,9,174.88,1573.92,172.0,1401.92,Net Banking
+2025-04-25,Chad Wyatt,West,Books,Non-Fiction,7,96.29,674.03,24.95,649.08,Debit Card
+2024-08-01,Joseph Lawrence,West,Electronics,Laptop,5,21.44,107.2,25.29,81.91,UPI
+2025-03-25,Kevin Nichols,South,Clothing,Jeans,4,185.97,743.88,100.39,643.49,UPI
+2024-09-08,David Delgado,South,Home & Kitchen,Cookware,7,438.76,3071.32,84.73,2986.59,Cash
+2025-01-06,Mary Baker,North,Clothing,T-shirt,3,454.23,1362.69,80.54,1282.15,UPI
+2025-01-13,Kevin Schaefer,East,Electronics,Camera,8,440.97,3527.76,661.28,2866.48,Credit Card
+2025-01-24,John Chen,West,Clothing,Dress,7,77.16,540.12,124.06,416.06,UPI
+2024-11-30,Jasmine Cook,South,Clothing,Dress,4,114.46,457.84,109.34,348.5,Debit Card
+2025-02-11,Miguel Nelson,East,Electronics,Laptop,4,287.4,1149.6,50.72,1098.88,Debit Card
+2024-12-01,Michael Acosta,West,Toys,Puzzle,3,100.81,302.43,5.79,296.64,Cash
+2025-03-02,William Ellis,East,Books,Non-Fiction,6,272.89,1637.34,412.08,1225.26,UPI
+2024-09-12,Mr. Joshua Collins,South,Books,Biography,8,365.25,2922.0,534.53,2387.47,Credit Card
+2025-01-25,Cheyenne May,East,Books,Biography,1,60.85,60.85,1.1,59.75,Net Banking
+2025-01-01,Charles Townsend,West,Toys,Board Game,3,57.96,173.88,0.25,173.63,Debit Card
+2025-07-23,Robin Cole,South,Electronics,Smartphone,7,111.66,781.62,55.22,726.4,UPI
+2025-03-07,Veronica Moore,North,Toys,Board Game,10,368.71,3687.1,191.69,3495.41,Debit Card
+2024-12-09,Gabrielle Cruz,South,Home & Kitchen,Cookware,8,11.08,88.64,22.65,65.99,Credit Card
+2024-12-05,Brett Kerr,South,Electronics,Camera,9,51.89,467.01,111.71,355.3,Net Banking
+2025-03-04,Jeffrey Hughes,South,Home & Kitchen,Toaster,7,219.92,1539.44,84.99,1454.45,UPI
+2025-02-22,Kathy Long,East,Toys,Board Game,8,499.31,3994.48,589.63,3404.85,Net Banking
+2024-11-23,Edward Morton,West,Electronics,Smartphone,2,280.58,561.16,116.22,444.94,Credit Card
+2025-01-12,Randy Reed,North,Electronics,Camera,9,407.22,3664.98,1027.79,2637.19,Credit Card
+2025-02-11,John Colon,North,Clothing,T-shirt,5,225.22,1126.1,232.8,893.3,UPI
+2024-08-25,Lisa Fuller,East,Toys,Action Figure,1,212.36,212.36,42.01,170.35,Credit Card
+2025-06-10,David Johnson,East,Home & Kitchen,Blender,10,103.96,1039.6,256.18,783.42,UPI
+2025-01-02,Crystal Williams,East,Toys,Action Figure,7,298.48,2089.36,56.82,2032.54,UPI
+2024-12-26,Nicholas Rodriguez,North,Clothing,T-shirt,1,446.41,446.41,129.98,316.43,UPI
+2024-08-17,Crystal Frederick,North,Clothing,T-shirt,2,272.55,545.1,33.1,512.0,UPI
+2025-05-13,Stephen Peterson,East,Books,Fiction,7,397.68,2783.76,757.89,2025.87,UPI
+2025-05-14,Cynthia Williams,East,Books,Non-Fiction,7,390.31,2732.17,546.79,2185.38,Debit Card
+2024-12-29,Darren Cooper,East,Electronics,Smartphone,2,125.28,250.56,63.63,186.93,Credit Card
+2025-04-06,Andrew Lynn,South,Clothing,Jeans,9,116.74,1050.66,47.94,1002.72,Cash
+2024-11-19,Amy Peterson,East,Home & Kitchen,Mixer,1,457.19,457.19,105.14,352.05,Credit Card
+2025-03-01,Ronald Taylor,South,Books,Non-Fiction,1,66.5,66.5,8.1,58.4,Cash
+2024-12-19,Jamie Miller,North,Clothing,Dress,8,203.4,1627.2,395.25,1231.95,Cash
+2025-07-16,Ryan Nolan,South,Books,Biography,10,313.92,3139.2,78.71,3060.49,Net Banking
+2025-06-10,Martha Day,East,Toys,Board Game,9,238.56,2147.04,20.59,2126.45,Debit Card
+2024-09-23,John Williams,North,Books,Biography,10,342.57,3425.7,287.33,3138.37,Debit Card
+2024-12-07,David Smith,West,Books,Non-Fiction,10,421.31,4213.1,208.8,4004.3,Net Banking
+2025-03-14,Wayne Williams,North,Electronics,Headphones,9,304.25,2738.25,556.39,2181.86,Debit Card
+2024-10-09,Angel Abbott,North,Books,Non-Fiction,3,260.51,781.53,144.53,637.0,Credit Card
+2025-06-19,Sierra West,East,Electronics,Headphones,2,296.26,592.52,126.46,466.06,Credit Card
+2024-10-24,Zachary Herrera,West,Books,Comics,9,109.63,986.67,233.59,753.08,Cash
+2024-10-21,Christina Lopez,East,Toys,Board Game,10,383.56,3835.6,240.96,3594.64,UPI
+2025-03-17,Michael Owen,South,Home & Kitchen,Toaster,1,28.96,28.96,8.53,20.43,UPI
+2024-12-09,Steve Martin,South,Clothing,Dress,2,33.0,66.0,10.93,55.07,Cash
+2025-06-22,Kelly Vasquez,South,Home & Kitchen,Blender,1,80.81,80.81,6.68,74.13,UPI
+2025-06-25,Steven Schaefer DVM,North,Clothing,Jacket,10,298.35,2983.5,506.8,2476.7,Cash
+2024-12-17,Pamela Graves,South,Clothing,Jacket,1,457.61,457.61,23.56,434.05,Debit Card
+2025-07-02,Robert Smith,South,Home & Kitchen,Cookware,3,305.09,915.27,208.72,706.55,Credit Card
+2024-10-08,Robert English,West,Electronics,Smartphone,9,318.85,2869.65,171.72,2697.93,Debit Card
+2024-09-19,Troy Reese,East,Toys,Puzzle,6,140.71,844.26,147.34,696.92,Debit Card
+2024-12-25,Kevin Foster,West,Books,Fiction,4,144.18,576.72,56.69,520.03,Credit Card
+2024-11-14,Julie Heath,East,Electronics,Laptop,10,225.99,2259.9,309.3,1950.6,Net Banking
+2025-01-05,Kristina Mueller,West,Clothing,Dress,6,218.58,1311.48,104.08,1207.4,Credit Card
+2025-07-09,Jennifer Proctor,West,Books,Biography,3,101.4,304.2,51.81,252.39,Credit Card
+2025-04-15,Alexander Wilson,South,Clothing,T-shirt,7,439.94,3079.58,218.84,2860.74,Net Banking
+2024-12-12,Ronald Fisher,North,Electronics,Headphones,7,326.3,2284.1,181.78,2102.32,Cash
+2024-09-25,Shannon Bennett,West,Home & Kitchen,Mixer,4,312.71,1250.84,113.0,1137.84,Credit Card
+2024-12-15,Tina Frost,North,Toys,Puzzle,9,190.28,1712.52,392.77,1319.75,Net Banking
+2024-12-09,Candace Foster,North,Toys,Board Game,9,474.97,4274.73,303.33,3971.4,Net Banking
+2025-03-16,Jean Stevens MD,South,Books,Comics,9,225.02,2025.18,313.15,1712.03,UPI
+2025-05-12,Robert Baker,South,Books,Fiction,1,223.47,223.47,45.19,178.28,Credit Card
+2025-06-02,Russell Jones,North,Clothing,Jacket,9,298.58,2687.22,419.45,2267.77,Credit Card
+2024-12-14,Mary Powell,West,Clothing,T-shirt,4,293.09,1172.36,126.43,1045.93,Net Banking
+2024-08-28,Morgan Burke,West,Home & Kitchen,Mixer,2,472.25,944.5,244.9,699.6,Cash
+2025-05-16,Zachary Jenkins,West,Clothing,Jacket,9,347.49,3127.41,707.84,2419.57,UPI
+2024-11-02,Mary Pratt,East,Toys,Puzzle,2,173.5,347.0,35.11,311.89,Cash
+2024-10-28,Jennifer Frazier,East,Clothing,Jacket,1,153.92,153.92,17.17,136.75,Debit Card
+2024-09-07,Cindy Copeland,West,Clothing,Dress,6,138.11,828.66,155.79,672.87,UPI
+2025-05-01,Lisa Miller,North,Toys,Action Figure,8,444.91,3559.28,621.81,2937.47,Debit Card
+2024-12-27,Dr. Jill Dalton,West,Electronics,Headphones,8,84.47,675.76,20.4,655.36,Net Banking
+2024-09-27,Stephanie Hicks,North,Electronics,Laptop,8,22.23,177.84,35.85,141.99,Credit Card
+2024-11-09,Benjamin Jackson,South,Clothing,Jacket,5,11.03,55.15,2.75,52.4,UPI
+2024-11-20,Patrick Lee,East,Electronics,Smartphone,1,420.39,420.39,103.63,316.76,Credit Card
+2025-04-08,Nicole Williams,South,Clothing,T-shirt,1,338.88,338.88,13.04,325.84,Cash
+2025-03-18,Danielle Thompson,East,Home & Kitchen,Cookware,9,437.02,3933.18,769.7,3163.48,UPI
+2025-01-05,Stephen Williams,North,Home & Kitchen,Cookware,4,290.29,1161.16,220.17,940.99,Cash
+2025-02-13,Michelle Harmon,South,Electronics,Headphones,9,354.02,3186.18,796.84,2389.34,Cash
+2024-09-29,Charles Pham,North,Home & Kitchen,Mixer,7,184.98,1294.86,333.27,961.59,Cash
+2024-10-28,Julie Jimenez,East,Home & Kitchen,Cookware,10,95.8,958.0,99.3,858.7,Cash
+2025-05-16,Terry Henry,West,Clothing,Jacket,10,440.08,4400.8,375.48,4025.32,UPI
+2025-06-15,Marcus Mitchell,East,Electronics,Smartphone,10,13.11,131.1,33.3,97.8,Debit Card
+2024-07-26,Rhonda Gray,South,Toys,Action Figure,10,143.16,1431.6,176.55,1255.05,Credit Card
+2025-05-29,Melissa Jones,North,Clothing,Dress,4,83.61,334.44,54.83,279.61,Debit Card
+2025-06-22,Shannon Johnson,North,Toys,Doll,2,273.63,547.26,74.45,472.81,Debit Card
+2024-11-14,Jay Cortez,North,Books,Non-Fiction,7,21.31,149.17,15.6,133.57,UPI
+2024-12-30,Alicia Carroll,South,Clothing,Jeans,4,315.45,1261.8,52.36,1209.44,Net Banking
+2025-06-18,Bailey Roberts,South,Books,Comics,5,242.31,1211.55,231.72,979.83,Debit Card
+2024-07-23,Andrew Walker,East,Clothing,T-shirt,4,27.7,110.8,30.81,79.99,Cash
+2025-06-16,Kelly Miles,South,Toys,Board Game,9,373.18,3358.62,717.78,2640.84,Net Banking
+2025-02-02,Justin Turner,East,Books,Fiction,6,27.59,165.54,25.28,140.26,Net Banking
+2024-11-29,Jacob Jones,West,Books,Non-Fiction,2,417.66,835.32,72.62,762.7,Net Banking
+2024-12-09,Mariah Elliott,East,Home & Kitchen,Cookware,4,114.13,456.52,59.65,396.87,Credit Card
+2024-11-18,Philip Kelly,North,Clothing,Dress,3,347.5,1042.5,277.08,765.42,Net Banking
+2025-06-09,Michael Clark,West,Toys,Action Figure,8,469.54,3756.32,1088.93,2667.39,Net Banking
+2024-11-24,Cameron Dominguez,West,Electronics,Laptop,7,34.11,238.77,38.01,200.76,Net Banking
+2025-03-20,James Nguyen,South,Clothing,T-shirt,10,394.01,3940.1,286.56,3653.54,Cash
+2025-05-29,Rachel Smith,West,Toys,Board Game,8,330.94,2647.52,374.04,2273.48,Debit Card
+2024-10-05,Jacqueline Colon,West,Electronics,Headphones,6,109.45,656.7,174.89,481.81,Cash
+2025-04-26,Derek Murray,North,Books,Non-Fiction,8,374.77,2998.16,849.83,2148.33,Credit Card
+2024-07-24,Kelly Diaz,South,Home & Kitchen,Toaster,10,499.2,4992.0,1266.71,3725.29,Cash
+2025-02-15,Nicholas Lamb,North,Clothing,Jacket,1,44.14,44.14,1.87,42.27,Cash
+2025-01-28,Hailey Day,South,Electronics,Laptop,8,155.99,1247.92,190.1,1057.82,Cash
+2024-12-30,Annette Thompson,East,Books,Non-Fiction,4,347.47,1389.88,229.37,1160.51,Credit Card
+2025-02-07,Christine Thomas,East,Toys,Board Game,3,261.88,785.64,232.62,553.02,Credit Card
+2025-05-07,Joshua Jenkins,East,Books,Non-Fiction,3,420.13,1260.39,361.86,898.53,Cash
+2025-01-01,Kimberly Wilson,South,Clothing,Jacket,8,378.05,3024.4,189.59,2834.81,UPI
+2025-03-06,Jeff Perry,South,Clothing,Jeans,6,111.46,668.76,101.7,567.06,Debit Card
+2024-09-02,Larry Mason,North,Clothing,T-shirt,3,458.09,1374.27,35.74,1338.53,Cash
+2025-04-15,Savannah Todd,East,Clothing,Dress,7,159.61,1117.27,333.94,783.33,Debit Card
+2024-12-08,Amanda Brown,South,Toys,Doll,2,465.88,931.76,98.62,833.14,Credit Card
+2024-09-20,Kathryn Shepherd,North,Books,Biography,3,375.42,1126.26,257.87,868.39,UPI
+2025-04-04,Lindsey Sloan,West,Toys,Action Figure,1,311.19,311.19,58.96,252.23,Credit Card
+2025-06-24,Peter Mccann,North,Toys,Puzzle,5,484.8,2424.0,425.44,1998.56,Debit Card
+2025-07-18,Christine Vargas,West,Home & Kitchen,Cookware,4,35.27,141.08,40.76,100.32,Debit Card
+2025-03-08,Julia Salinas,West,Toys,Doll,5,341.41,1707.05,374.47,1332.58,Debit Card
+2025-02-21,Jennifer Ramirez,East,Electronics,Headphones,8,75.4,603.2,97.61,505.59,Net Banking
+2025-07-16,Jonathan Perez,North,Books,Biography,5,148.43,742.15,53.46,688.69,Credit Card
+2025-05-14,Whitney Washington,West,Clothing,Dress,9,261.63,2354.67,703.5,1651.17,UPI
+2025-01-31,Scott Yates,West,Electronics,Smartphone,2,118.84,237.68,21.47,216.21,Net Banking
+2025-06-29,Laura Bennett,East,Electronics,Smartphone,5,386.57,1932.85,524.67,1408.18,Cash
+2025-04-03,Sarah Berg,West,Home & Kitchen,Mixer,4,485.36,1941.44,159.78,1781.66,Cash
+2024-07-29,Stephanie Monroe MD,North,Home & Kitchen,Blender,1,246.99,246.99,43.71,203.28,UPI
+2025-05-24,Vernon Norton,East,Electronics,Laptop,1,413.35,413.35,110.64,302.71,Credit Card
+2025-02-05,Michael Clark,East,Toys,Action Figure,8,48.69,389.52,107.4,282.12,UPI
+2024-11-10,Jared Robinson,East,Clothing,Jeans,7,466.24,3263.68,397.02,2866.66,UPI
+2024-12-13,Christian Yates,North,Books,Comics,7,236.59,1656.13,189.3,1466.83,Cash
+2024-10-20,Christopher Harris,North,Books,Comics,2,186.53,373.06,87.81,285.25,Cash
+2024-12-31,Eric Simmons,West,Books,Non-Fiction,8,223.12,1784.96,522.43,1262.53,Cash
+2025-01-12,Mark Liu,North,Home & Kitchen,Toaster,6,421.94,2531.64,544.67,1986.97,UPI
+2024-10-03,Elijah Ramirez,South,Toys,Action Figure,9,164.91,1484.19,182.32,1301.87,UPI
+2024-11-02,Heather Lewis,East,Toys,Action Figure,8,155.6,1244.8,312.36,932.44,UPI
+2024-11-06,Amanda Williams,East,Home & Kitchen,Blender,1,176.19,176.19,21.04,155.15,UPI
+2025-07-19,Robert Webb,West,Toys,Action Figure,8,213.43,1707.44,75.37,1632.07,UPI
+2025-04-12,Christine Kennedy,South,Books,Biography,3,226.4,679.2,3.41,675.79,Debit Card
+2024-10-05,Tiffany Perkins,West,Toys,Doll,4,416.58,1666.32,139.95,1526.37,UPI
+2025-05-17,Eric Adams Jr.,East,Clothing,Dress,6,422.99,2537.94,403.36,2134.58,Net Banking
+2024-08-20,Amber Willis,East,Home & Kitchen,Blender,6,92.5,555.0,13.67,541.33,Cash
+2025-01-25,Andres Davis,West,Toys,Action Figure,8,496.53,3972.24,497.24,3475.0,Credit Card
+2024-10-04,Natasha Thompson,West,Home & Kitchen,Cookware,9,168.32,1514.88,287.13,1227.75,Net Banking
+2024-12-11,Kevin Tran,West,Books,Comics,3,176.75,530.25,144.01,386.24,Debit Card
+2024-09-04,Mary Green,West,Home & Kitchen,Cookware,2,71.96,143.92,17.82,126.1,UPI
+2025-05-28,Christina Brown,North,Clothing,Jacket,3,309.77,929.31,78.97,850.34,Cash
+2025-03-18,Kyle Johnson,East,Home & Kitchen,Toaster,5,210.63,1053.15,47.91,1005.24,Net Banking
+2025-07-04,Matthew Moore,South,Books,Non-Fiction,8,486.14,3889.12,813.16,3075.96,Net Banking
+2025-04-23,Ashley Hayes,East,Electronics,Smartphone,8,164.56,1316.48,159.5,1156.98,Debit Card
+2024-10-07,Darlene Conley,West,Toys,Doll,9,404.43,3639.87,719.74,2920.13,Net Banking
+2025-02-23,Heather Sims,East,Clothing,T-shirt,7,465.9,3261.3,56.82,3204.48,Net Banking
+2024-08-25,Gabrielle Anderson,South,Home & Kitchen,Blender,1,64.13,64.13,5.9,58.23,Cash
+2025-01-10,Ryan Newman,North,Electronics,Laptop,8,181.61,1452.88,192.65,1260.23,UPI
+2025-06-20,James Richmond,West,Electronics,Laptop,10,233.75,2337.5,193.72,2143.78,Cash
+2025-04-18,Stacy Davis,North,Toys,Board Game,7,438.76,3071.32,755.21,2316.11,Credit Card
+2024-11-22,Erin Craig,South,Books,Non-Fiction,6,290.79,1744.74,108.62,1636.12,UPI
+2024-09-23,Martin Schultz,North,Clothing,Jeans,10,63.51,635.1,181.41,453.69,Net Banking
+2024-09-15,Melanie Davis,South,Home & Kitchen,Cookware,7,310.6,2174.2,168.89,2005.31,Credit Card
+2024-10-22,Christopher Williams,East,Clothing,Jeans,8,428.79,3430.32,1004.96,2425.36,UPI
+2024-09-22,Christopher Baker,South,Clothing,Jacket,10,451.08,4510.8,821.4,3689.4,UPI
+2025-06-07,Christopher Smith,East,Toys,Puzzle,10,301.14,3011.4,363.49,2647.91,Credit Card
+2024-08-26,Linda Henry,South,Books,Non-Fiction,7,462.92,3240.44,349.67,2890.77,UPI
+2025-05-25,Sharon Russell,North,Home & Kitchen,Cookware,4,197.49,789.96,207.28,582.68,Net Banking
+2025-06-09,Scott Sandoval,South,Electronics,Laptop,6,125.31,751.86,50.98,700.88,Credit Card
+2024-09-28,Michelle Medina,West,Home & Kitchen,Cookware,8,437.42,3499.36,760.6,2738.76,Cash
+2024-12-23,Timothy Mckenzie,South,Clothing,Dress,3,500.0,1500.0,405.56,1094.44,Net Banking
+2024-11-23,Anthony Adams,East,Books,Non-Fiction,10,29.58,295.8,59.02,236.78,Net Banking
+2025-07-04,Jessica Chambers,West,Toys,Doll,1,161.43,161.43,46.99,114.44,Cash
+2024-10-14,Melissa Lucas,West,Books,Biography,5,221.72,1108.6,134.07,974.53,Net Banking
+2025-05-03,Jessica Smith,East,Electronics,Camera,10,218.26,2182.6,106.47,2076.13,UPI
+2024-10-28,Jeff Nielsen,South,Toys,Action Figure,9,453.88,4084.92,245.26,3839.66,Credit Card
+2025-05-16,Joshua Crawford,South,Books,Comics,10,420.12,4201.2,556.86,3644.34,Debit Card
+2024-10-31,Jonathan Snyder,East,Toys,Doll,7,493.17,3452.19,1025.82,2426.37,Debit Card
+2025-03-23,Christopher White,South,Home & Kitchen,Mixer,8,336.54,2692.32,48.4,2643.92,Cash
+2025-03-02,John Strong DDS,East,Toys,Action Figure,2,166.58,333.16,16.89,316.27,Debit Card
+2025-03-20,James Miller,East,Electronics,Camera,4,165.77,663.08,113.86,549.22,Debit Card
+2024-07-31,Catherine Lozano,West,Books,Fiction,9,334.59,3011.31,117.51,2893.8,Credit Card
+2025-02-28,Emily Nguyen,North,Books,Non-Fiction,10,313.16,3131.6,770.69,2360.91,Net Banking
+2025-03-21,Jason Rodriguez,East,Books,Non-Fiction,7,189.28,1324.96,13.68,1311.28,Debit Card
+2025-02-23,Allen Briggs,North,Clothing,Jeans,1,214.28,214.28,53.26,161.02,Credit Card
+2025-01-27,Johnathan Moreno,North,Home & Kitchen,Toaster,5,177.24,886.2,4.36,881.84,UPI
+2025-07-21,Kaylee Lawson DDS,West,Toys,Doll,7,359.15,2514.05,47.31,2466.74,Credit Card
+2025-06-21,Robert Matthews,South,Home & Kitchen,Toaster,1,100.25,100.25,1.04,99.21,Credit Card
+2024-12-04,Julie Adams,North,Clothing,Dress,6,462.4,2774.4,215.82,2558.58,Cash
+2024-12-17,Jerome White,South,Home & Kitchen,Toaster,4,251.17,1004.68,139.89,864.79,UPI
+2025-07-16,Jacqueline Dyer,East,Books,Biography,2,467.93,935.86,199.88,735.98,Debit Card
+2025-03-23,Kenneth Riley,East,Electronics,Laptop,4,127.84,511.36,88.86,422.5,UPI
+2024-11-26,Dawn Hawkins,North,Books,Comics,2,385.09,770.18,13.36,756.82,Credit Card
+2025-02-27,Emily Wright,South,Books,Comics,1,158.48,158.48,30.87,127.61,Debit Card
+2025-03-08,Michael Owens,North,Toys,Board Game,9,476.7,4290.3,183.32,4106.98,UPI
+2024-12-06,Paul Jones,North,Home & Kitchen,Mixer,1,80.68,80.68,14.33,66.35,Cash
+2024-11-01,Jeremy Webster,West,Books,Non-Fiction,4,51.18,204.72,59.52,145.2,Net Banking
+2025-05-21,Caitlin Travis,South,Home & Kitchen,Cookware,6,400.24,2401.44,355.73,2045.71,Net Banking
+2024-07-26,Kelly Moore,West,Toys,Doll,10,68.97,689.7,146.81,542.89,Net Banking
+2025-04-16,Zachary Ramirez,North,Electronics,Camera,5,217.59,1087.95,169.31,918.64,UPI
+2025-01-25,April Turner,North,Electronics,Smartphone,8,113.18,905.44,175.45,729.99,UPI
+2024-10-14,Tamara Hill,East,Electronics,Smartphone,4,70.05,280.2,63.47,216.73,UPI
+2025-07-20,Amanda Sherman,South,Electronics,Laptop,9,174.01,1566.09,351.98,1214.11,Credit Card
+2024-08-03,Sharon Walker,South,Clothing,Jacket,5,402.86,2014.3,389.28,1625.02,UPI
+2025-04-19,Ms. Jennifer Haas MD,West,Home & Kitchen,Mixer,3,234.59,703.77,30.26,673.51,Credit Card
+2025-05-10,Roberto Martin,East,Toys,Puzzle,7,81.55,570.85,133.28,437.57,Debit Card
+2025-03-14,Laura Cox,South,Books,Comics,10,234.59,2345.9,330.15,2015.75,Credit Card
+2025-03-24,Danielle Reeves,West,Clothing,Jeans,3,136.86,410.58,10.28,400.3,Credit Card
+2025-05-07,Todd Hodge,West,Clothing,Jeans,3,437.69,1313.07,32.94,1280.13,UPI
+2025-03-23,Lisa Scott,West,Toys,Puzzle,3,416.04,1248.12,239.55,1008.57,Credit Card
+2025-05-21,Kelly Thomas,West,Toys,Board Game,5,440.95,2204.75,584.56,1620.19,Credit Card
+2024-09-23,Steven Garcia,North,Toys,Doll,7,116.41,814.87,154.2,660.67,UPI
+2025-01-04,Mark Smith,South,Electronics,Laptop,7,356.38,2494.66,174.32,2320.34,Credit Card
+2024-10-21,Justin Sanders,South,Electronics,Camera,2,42.82,85.64,4.26,81.38,Debit Card
+2024-11-07,Mary Harmon,East,Books,Biography,8,435.76,3486.08,183.04,3303.04,Net Banking
+2025-05-01,Andrew Rogers,West,Toys,Puzzle,10,289.54,2895.4,374.08,2521.32,UPI
+2024-10-19,Shaun Sparks,North,Toys,Puzzle,3,472.87,1418.61,253.11,1165.5,Debit Card
+2024-09-10,Jose Huang,South,Clothing,Dress,1,223.15,223.15,60.33,162.82,Credit Card
+2025-05-30,Matthew Day Jr.,East,Clothing,Dress,2,402.18,804.36,168.0,636.36,Credit Card
+2025-05-01,Claire Anthony,North,Toys,Doll,4,229.82,919.28,119.09,800.19,Debit Card
+2025-03-04,Aaron Perry,South,Electronics,Laptop,10,53.89,538.9,57.64,481.26,Debit Card
+2024-12-21,Margaret Cooper,West,Home & Kitchen,Toaster,5,298.77,1493.85,407.17,1086.68,UPI
+2025-07-04,Taylor Stein,West,Books,Non-Fiction,9,66.96,602.64,70.82,531.82,Cash
+2024-09-04,Eric Murphy,East,Toys,Board Game,7,109.75,768.25,124.89,643.36,UPI
+2024-12-12,Kaylee Campbell,South,Clothing,Jacket,4,43.8,175.2,9.19,166.01,Net Banking
+2025-02-23,Kerry Bailey,East,Toys,Doll,4,189.59,758.36,194.95,563.41,Credit Card
+2025-03-09,Kristin Buckley,West,Electronics,Headphones,6,271.58,1629.48,268.62,1360.86,Net Banking
+2025-01-01,Mr. Anthony Atkins,North,Home & Kitchen,Cookware,4,382.18,1528.72,296.97,1231.75,Debit Card
+2025-06-27,Derek Taylor,South,Books,Fiction,4,479.44,1917.76,28.33,1889.43,Credit Card
+2025-03-02,Caitlin Townsend,East,Books,Comics,8,143.31,1146.48,313.8,832.68,Net Banking
+2025-04-04,Scott Martin,West,Books,Comics,6,375.05,2250.3,166.81,2083.49,Credit Card
+2025-03-03,Michael Moore,North,Home & Kitchen,Cookware,6,177.52,1065.12,220.49,844.63,Debit Card
+2024-12-28,Casey Hernandez,West,Home & Kitchen,Toaster,4,165.93,663.72,105.99,557.73,UPI
+2025-05-12,Dean Woods,East,Books,Comics,3,14.03,42.09,7.6,34.49,Cash
+2025-07-15,Kurt Benson,North,Toys,Board Game,9,295.55,2659.95,281.95,2378.0,Credit Card
+2024-09-18,Patrick Patel,West,Home & Kitchen,Cookware,9,241.59,2174.31,82.22,2092.09,Net Banking
+2024-11-28,Dr. Mary Johnson DDS,East,Books,Non-Fiction,7,168.36,1178.52,136.46,1042.06,Cash
+2025-02-07,Amy Bennett,West,Electronics,Headphones,9,64.07,576.63,21.13,555.5,Credit Card
+2025-03-29,Thomas Mcdonald,East,Clothing,Jacket,5,332.18,1660.9,70.39,1590.51,Debit Card
+2024-09-08,Cathy Arnold,North,Clothing,T-shirt,7,149.64,1047.48,175.39,872.09,Credit Card
+2025-02-25,Richard Sullivan,North,Books,Comics,1,246.42,246.42,45.32,201.1,Debit Card
+2025-07-17,Jessica Burgess,West,Books,Comics,9,310.82,2797.38,405.33,2392.05,Debit Card
+2025-06-23,Ronald Ray,South,Clothing,Jacket,8,467.15,3737.2,302.96,3434.24,Net Banking
+2025-04-23,Michael Hayes,South,Clothing,Jeans,8,196.3,1570.4,352.0,1218.4,Cash
+2025-04-15,Fernando Hill,South,Home & Kitchen,Cookware,4,395.2,1580.8,101.78,1479.02,Net Banking
+2025-04-02,Danielle Lowe,North,Electronics,Smartphone,6,178.84,1073.04,189.74,883.3,Cash
+2024-09-05,Alan Alvarado,North,Books,Non-Fiction,9,37.63,338.67,83.96,254.71,Net Banking
+2024-11-08,Cody Ray,West,Electronics,Headphones,2,299.91,599.82,143.69,456.13,Net Banking
+2025-04-08,Melinda Colon,South,Books,Comics,8,456.39,3651.12,57.39,3593.73,UPI
+2024-12-14,Mikayla Mccall,West,Electronics,Headphones,8,316.19,2529.52,437.87,2091.65,Cash
+2025-07-15,Dawn Mills,West,Clothing,T-shirt,10,73.31,733.1,137.51,595.59,Net Banking
+2025-05-28,Tina Gates,West,Electronics,Smartphone,7,352.4,2466.8,662.93,1803.87,Debit Card
+2025-04-25,Alexander Sanchez,South,Electronics,Smartphone,6,205.74,1234.44,29.4,1205.04,Credit Card
+2024-09-06,Crystal Nelson,South,Books,Non-Fiction,6,464.1,2784.6,501.35,2283.25,UPI
+2025-01-08,Ryan Acosta,West,Toys,Action Figure,9,329.79,2968.11,401.0,2567.11,UPI
+2025-03-17,Keith Kerr,North,Clothing,Jeans,10,32.4,324.0,26.09,297.91,Net Banking
+2025-07-12,Stacy Brown,South,Toys,Doll,8,393.82,3150.56,50.47,3100.09,UPI
+2024-12-13,Diana Lucas,West,Toys,Action Figure,2,312.56,625.12,102.61,522.51,UPI
+2025-01-11,Tracy Hughes,South,Clothing,T-shirt,5,277.13,1385.65,347.02,1038.63,Cash
+2025-07-09,Jacob Oconnell,East,Books,Biography,9,53.52,481.68,49.85,431.83,Debit Card
+2025-07-01,Tiffany Smith,South,Clothing,Jeans,7,66.1,462.7,11.44,451.26,UPI
+2025-03-18,Justin Johnson,East,Books,Non-Fiction,7,30.22,211.54,43.67,167.87,Credit Card
+2024-12-01,Beverly Ball,East,Toys,Doll,7,472.83,3309.81,549.48,2760.33,Credit Card
+2025-03-28,Alexis Mccann,West,Electronics,Headphones,2,358.12,716.24,145.87,570.37,Credit Card
+2025-04-13,Carolyn Yoder,South,Electronics,Camera,4,155.72,622.88,165.29,457.59,Net Banking
+2025-04-23,Sean Smith,North,Clothing,T-shirt,6,73.6,441.6,53.11,388.49,Net Banking
+2025-01-08,Lori Hill,West,Electronics,Headphones,3,323.36,970.08,59.4,910.68,Cash
+2025-05-20,Andrea Mcclure,West,Toys,Action Figure,1,333.53,333.53,43.18,290.35,Net Banking
+2024-10-13,Charles Anderson,West,Toys,Puzzle,6,104.65,627.9,61.27,566.63,Net Banking
+2024-12-14,Jimmy Golden,South,Electronics,Laptop,1,87.8,87.8,4.32,83.48,UPI
+2024-10-27,John Glass,East,Toys,Action Figure,6,363.69,2182.14,334.74,1847.4,Credit Card
+2024-11-20,Tony Dickson,South,Home & Kitchen,Mixer,4,267.27,1069.08,14.56,1054.52,UPI
+2025-07-06,Craig Riley,West,Toys,Board Game,4,275.09,1100.36,188.35,912.01,Cash
+2025-03-23,Sandra Sherman,South,Clothing,Dress,2,14.56,29.12,3.55,25.57,Cash
+2024-11-23,Donald Williamson,South,Toys,Action Figure,4,17.05,68.2,19.68,48.52,Credit Card
+2024-08-24,Brett Conway,North,Electronics,Smartphone,8,73.69,589.52,13.19,576.33,Debit Card
+2024-08-02,Kenneth Sullivan,West,Toys,Puzzle,6,179.01,1074.06,292.57,781.49,UPI
+2024-12-16,Sarah Elliott,North,Toys,Puzzle,2,346.86,693.72,99.06,594.66,Debit Card
+2024-10-25,Steven Reynolds,North,Toys,Action Figure,4,121.8,487.2,37.09,450.11,UPI
+2024-07-30,Shawn Newman MD,West,Books,Comics,7,373.7,2615.9,144.81,2471.09,Debit Card
+2025-04-24,Michael Johnson,South,Books,Non-Fiction,7,255.12,1785.84,302.25,1483.59,Net Banking
+2024-09-02,Kelly Ferguson,South,Toys,Doll,4,429.98,1719.92,173.34,1546.58,Debit Card
+2025-02-18,John Figueroa,North,Electronics,Headphones,5,430.11,2150.55,13.43,2137.12,Debit Card
+2024-12-12,Kimberly King,East,Books,Biography,5,465.05,2325.25,380.23,1945.02,Cash
+2025-07-21,Charles Copeland,South,Books,Fiction,5,146.38,731.9,207.64,524.26,Debit Card
+2024-07-24,Jennifer Cannon,North,Electronics,Headphones,7,231.08,1617.56,303.92,1313.64,Credit Card
+2024-12-24,Nicole Gonzalez,West,Clothing,T-shirt,6,144.37,866.22,58.71,807.51,UPI
+2024-12-27,Victoria Haynes,West,Electronics,Camera,7,459.05,3213.35,923.76,2289.59,Debit Card
+2024-09-30,Jennifer Dickerson,North,Home & Kitchen,Toaster,5,144.64,723.2,30.49,692.71,Net Banking
+2025-02-26,Leonard Sparks,East,Electronics,Laptop,10,250.93,2509.3,501.04,2008.26,Net Banking
+2025-03-26,Ann Murphy,East,Books,Non-Fiction,7,474.48,3321.36,346.54,2974.82,UPI
+2025-03-11,Angela Mcbride,East,Toys,Doll,4,200.22,800.88,151.27,649.61,Net Banking
+2024-10-02,Stanley Alexander,West,Books,Non-Fiction,10,487.58,4875.8,1255.23,3620.57,Net Banking
+2025-03-12,Tricia Keller,South,Books,Biography,9,160.74,1446.66,386.79,1059.87,Cash
+2025-05-05,Adam Rodriguez,South,Clothing,Jacket,8,419.63,3357.04,882.88,2474.16,Credit Card
+2024-09-24,Matthew Gonzalez,East,Home & Kitchen,Blender,2,326.42,652.84,32.85,619.99,Cash
+2024-10-01,Christopher Matthews,East,Electronics,Laptop,2,124.15,248.3,62.82,185.48,Credit Card
+2025-02-19,Brittany Richards,North,Home & Kitchen,Cookware,3,189.92,569.76,58.89,510.87,Debit Card
+2024-11-17,Jerry Shaffer,South,Clothing,Jeans,6,275.09,1650.54,478.73,1171.81,UPI
+2024-10-13,Patrick Gonzalez,South,Books,Non-Fiction,9,430.38,3873.42,21.35,3852.07,Cash
+2024-10-06,James Benson,East,Clothing,Jeans,7,461.38,3229.66,928.88,2300.78,Debit Card
+2025-01-03,John Bennett,North,Books,Fiction,7,487.97,3415.79,516.57,2899.22,Net Banking
+2024-08-28,Tanya Davis,North,Home & Kitchen,Toaster,2,422.56,845.12,143.89,701.23,UPI
+2024-08-28,Mary Lee,West,Toys,Action Figure,8,421.59,3372.72,263.74,3108.98,Credit Card
+2024-09-14,Shari Jensen MD,South,Home & Kitchen,Blender,10,94.37,943.7,131.68,812.02,UPI
+2025-01-31,Michael Tyler,South,Toys,Action Figure,6,286.77,1720.62,121.32,1599.3,Credit Card
+2025-02-11,Manuel Gonzalez,West,Clothing,Jeans,10,114.42,1144.2,73.56,1070.64,Net Banking
+2024-12-19,Antonio Lozano,South,Electronics,Camera,5,36.82,184.1,14.98,169.12,Net Banking
+2025-01-08,Patrick Reilly,West,Books,Comics,3,485.96,1457.88,94.29,1363.59,UPI
+2025-03-07,Thomas Rodriguez,East,Home & Kitchen,Mixer,6,29.24,175.44,2.91,172.53,Cash
+2025-04-05,Christine Pollard,East,Electronics,Camera,7,37.37,261.59,67.48,194.11,Credit Card
+2024-07-27,Joel Newton,West,Books,Fiction,2,264.28,528.56,30.5,498.06,Net Banking
+2025-06-29,Diana Thomas,East,Clothing,Jeans,8,155.1,1240.8,309.92,930.88,UPI
+2025-04-13,Kristie White,West,Clothing,T-shirt,3,150.54,451.62,106.65,344.97,Debit Card
+2025-01-10,Susan Garcia,North,Home & Kitchen,Toaster,2,44.87,89.74,13.59,76.15,Cash
+2025-04-27,Kathleen Zamora,South,Home & Kitchen,Mixer,4,66.67,266.68,78.9,187.78,Debit Card
+2025-03-25,Angel Martinez,North,Books,Biography,10,262.99,2629.9,60.0,2569.9,Debit Card
+2025-06-12,Jennifer Wilson,South,Clothing,Jeans,3,365.92,1097.76,175.57,922.19,Credit Card
+2025-07-03,Thomas Hanna,South,Toys,Puzzle,4,206.88,827.52,21.18,806.34,Debit Card
+2025-02-21,Debbie Malone,East,Electronics,Laptop,2,106.55,213.1,47.34,165.76,Net Banking
+2024-09-17,Jonathan Smith,West,Electronics,Camera,9,142.02,1278.18,347.52,930.66,Credit Card
+2024-11-25,Richard Ramos,South,Electronics,Smartphone,7,434.66,3042.62,210.18,2832.44,UPI
+2025-01-05,Helen Phillips DDS,West,Clothing,Dress,5,422.94,2114.7,23.07,2091.63,UPI
+2025-06-26,Valerie Ray,North,Books,Non-Fiction,9,395.42,3558.78,763.21,2795.57,Net Banking
+2025-05-16,Lindsey Adams,South,Electronics,Smartphone,4,72.23,288.92,38.25,250.67,UPI
+2024-09-19,Gina Robertson,West,Books,Fiction,2,169.32,338.64,19.37,319.27,Credit Card
+2025-01-03,Nancy Stanley MD,East,Books,Non-Fiction,10,70.62,706.2,48.84,657.36,Debit Card
+2025-05-23,Matthew Lynch,South,Toys,Puzzle,7,390.72,2735.04,475.26,2259.78,Net Banking
+2025-05-10,Melissa Mueller,West,Toys,Puzzle,3,439.97,1319.91,111.84,1208.07,Credit Card
+2025-04-03,Alexander Hayes,North,Books,Fiction,9,201.92,1817.28,501.14,1316.14,UPI
+2025-07-18,Lydia Wilson,South,Books,Comics,10,172.98,1729.8,95.32,1634.48,Debit Card
+2025-05-03,Ryan Frost,South,Toys,Doll,9,437.89,3941.01,1163.07,2777.94,Debit Card
+2024-09-24,Sarah Rodriguez,South,Home & Kitchen,Blender,1,126.01,126.01,15.14,110.87,Cash
+2024-10-20,Ronnie Benton,South,Electronics,Smartphone,3,169.8,509.4,147.93,361.47,Debit Card
+2025-03-09,Charles Patel,West,Home & Kitchen,Mixer,9,127.52,1147.68,146.97,1000.71,Net Banking
+2024-08-26,Ashley Bartlett PhD,East,Books,Biography,6,129.84,779.04,173.58,605.46,Debit Card
+2025-06-18,Mary Stanley,South,Clothing,Jacket,3,158.77,476.31,90.25,386.06,Debit Card
+2025-04-24,Rachel Powers,West,Home & Kitchen,Toaster,5,77.21,386.05,97.43,288.62,UPI
+2024-07-31,Anthony Jones,South,Books,Fiction,3,413.78,1241.34,53.26,1188.08,Cash
+2025-01-14,Bobby Davis,North,Books,Non-Fiction,6,134.02,804.12,176.41,627.71,Credit Card
+2024-12-01,Lisa Brewer,East,Clothing,Jacket,9,229.21,2062.89,381.2,1681.69,Cash
+2024-08-13,Wendy Green,East,Electronics,Smartphone,7,319.55,2236.85,69.01,2167.84,Cash
+2025-06-06,Brianna Cabrera,North,Electronics,Headphones,2,231.43,462.86,71.9,390.96,Net Banking
+2025-06-03,Rebecca Scott,South,Clothing,T-shirt,6,82.72,496.32,59.67,436.65,Cash
+2024-09-08,Sharon Clay,South,Clothing,Jeans,7,76.17,533.19,15.57,517.62,Cash
+2025-02-27,Justin Harris,South,Electronics,Smartphone,10,320.9,3209.0,462.81,2746.19,Debit Card
+2024-12-19,Thomas Graves,West,Toys,Puzzle,8,440.58,3524.64,529.01,2995.63,UPI
+2025-03-20,Abigail Garcia,East,Clothing,Jeans,3,367.92,1103.76,192.1,911.66,Debit Card
+2024-12-15,Rhonda Heath,North,Home & Kitchen,Blender,2,141.15,282.3,38.95,243.35,Cash
+2025-07-15,Daniel Hunt,South,Electronics,Laptop,7,156.74,1097.18,199.64,897.54,Credit Card
+2024-10-31,William Wood,North,Clothing,T-shirt,2,483.06,966.12,67.69,898.43,Debit Card
+2024-08-27,Jermaine Blanchard,South,Clothing,Jeans,4,317.5,1270.0,310.93,959.07,Net Banking
+2024-11-18,Aimee Cantrell,West,Electronics,Smartphone,10,300.17,3001.7,291.66,2710.04,Net Banking
+2025-05-16,Joel Johnson,East,Electronics,Smartphone,9,475.26,4277.34,326.81,3950.53,Debit Card
+2025-04-04,Dennis Gutierrez,West,Home & Kitchen,Cookware,4,418.77,1675.08,52.41,1622.67,Debit Card
+2024-11-07,Erin Hanson MD,West,Clothing,Jacket,8,361.23,2889.84,379.93,2509.91,Net Banking
+2024-07-29,Nathaniel Martin,North,Books,Non-Fiction,4,192.97,771.88,69.99,701.89,Debit Card
+2025-04-17,David Newman,West,Home & Kitchen,Blender,5,117.72,588.6,174.32,414.28,Debit Card
+2024-11-23,Miss Tammy Lynch,East,Home & Kitchen,Toaster,8,212.48,1699.84,486.99,1212.85,Cash
+2025-05-18,Elizabeth Edwards,East,Toys,Doll,10,97.97,979.7,3.27,976.43,Debit Card
+2024-12-13,Matthew White,West,Toys,Doll,1,180.95,180.95,53.11,127.84,UPI
+2025-06-20,Luis Jackson,South,Home & Kitchen,Toaster,5,198.87,994.35,141.22,853.13,Credit Card
+2025-06-10,Carrie Melton,West,Electronics,Laptop,8,467.75,3742.0,1073.04,2668.96,Cash
+2025-06-18,Michelle Faulkner,South,Books,Biography,6,409.28,2455.68,171.22,2284.46,UPI
+2025-01-01,Gary Bryan,East,Home & Kitchen,Cookware,5,158.98,794.9,42.03,752.87,Cash
+2025-02-16,John Davis,East,Books,Fiction,3,423.24,1269.72,158.58,1111.14,Credit Card
+2024-12-30,Sandra Guzman,North,Electronics,Smartphone,3,314.58,943.74,22.69,921.05,UPI
+2025-01-06,Alisha Johnson,West,Books,Fiction,10,278.41,2784.1,55.93,2728.17,Credit Card
+2025-03-16,Nicole Fitzpatrick,West,Electronics,Laptop,5,438.75,2193.75,375.56,1818.19,UPI
+2025-02-25,April Mendoza,North,Toys,Action Figure,6,248.58,1491.48,242.08,1249.4,Net Banking
+2024-12-20,Joel Phillips,North,Toys,Board Game,3,187.1,561.3,140.65,420.65,Net Banking
+2024-11-27,Lisa Cherry,East,Home & Kitchen,Toaster,2,97.83,195.66,5.85,189.81,Cash
+2025-03-15,Ashley Cole,West,Clothing,Jeans,1,463.49,463.49,73.49,390.0,UPI
+2024-11-01,Michelle Johnson,South,Electronics,Headphones,1,125.19,125.19,23.46,101.73,Cash
+2024-10-12,Chase Hampton,West,Electronics,Smartphone,3,343.77,1031.31,152.94,878.37,Credit Card
+2024-07-28,Mary Adams MD,West,Books,Biography,5,489.1,2445.5,473.13,1972.37,Debit Card
+2024-09-28,Jose Carroll,South,Home & Kitchen,Toaster,1,117.06,117.06,10.2,106.86,Credit Card
+2025-04-03,Brandy Rojas,North,Books,Comics,10,278.46,2784.6,14.85,2769.75,Debit Card
+2024-09-20,Crystal Huerta,East,Toys,Puzzle,3,244.31,732.93,159.37,573.56,Cash
+2024-08-07,Thomas Martin MD,East,Clothing,T-shirt,7,98.82,691.74,12.35,679.39,UPI
+2025-03-22,Amy Erickson,North,Toys,Doll,9,10.15,91.35,5.63,85.72,Cash
+2024-11-09,Christopher Perkins,East,Home & Kitchen,Mixer,8,417.76,3342.08,762.28,2579.8,Cash
+2024-07-26,Randy Dixon,South,Toys,Board Game,7,366.28,2563.96,39.16,2524.8,Net Banking
+2025-05-23,Cassidy Hill,South,Electronics,Headphones,5,201.82,1009.1,23.74,985.36,UPI
+2024-11-01,Sonya Schwartz,West,Books,Biography,2,295.03,590.06,55.19,534.87,UPI
+2024-10-17,Rebecca Jones,North,Clothing,Jeans,1,205.7,205.7,35.59,170.11,UPI
+2025-01-05,Melissa Browning,East,Toys,Puzzle,1,182.52,182.52,31.71,150.81,UPI
+2025-01-02,James Barrera,South,Clothing,Dress,6,168.0,1008.0,63.94,944.06,Debit Card
+2025-02-27,Dr. Kathleen Graham,West,Home & Kitchen,Cookware,10,417.69,4176.9,343.83,3833.07,Debit Card
+2024-12-29,Mathew Hamilton,East,Electronics,Camera,9,122.78,1105.02,265.04,839.98,Net Banking
+2025-05-23,Diana Harris,North,Clothing,Jacket,6,400.24,2401.44,699.95,1701.49,Credit Card
+2024-07-31,Amy Bowen,East,Clothing,Dress,8,269.54,2156.32,610.39,1545.93,Net Banking
+2025-01-17,Denise Clark,East,Toys,Action Figure,8,468.61,3748.88,1016.59,2732.29,UPI
+2025-06-06,Brandon Hernandez,North,Electronics,Smartphone,1,154.66,154.66,17.18,137.48,Net Banking
+2024-07-31,John Russell,North,Books,Comics,8,124.52,996.16,34.61,961.55,Net Banking
+2025-04-29,Cindy Baker,West,Electronics,Camera,7,272.16,1905.12,232.71,1672.41,UPI
+2025-06-23,William Holmes,South,Books,Biography,3,364.8,1094.4,306.7,787.7,Net Banking
+2025-01-28,Sharon Mcdonald,South,Clothing,Jacket,9,494.48,4450.32,843.0,3607.32,Credit Card
+2024-10-06,Dean Curtis,East,Clothing,Jeans,1,46.77,46.77,13.25,33.52,Credit Card
+2025-02-04,Patrick Rodriguez,South,Toys,Board Game,9,364.29,3278.61,807.54,2471.07,Debit Card
+2025-01-26,Matthew Brown,North,Home & Kitchen,Cookware,6,27.54,165.24,34.09,131.15,Credit Card
+2025-05-05,Destiny Huffman,West,Toys,Puzzle,5,103.62,518.1,88.1,430.0,Credit Card
+2025-01-24,Gerald Davis,North,Books,Biography,2,86.43,172.86,0.66,172.2,UPI
+2025-06-24,Terry Anderson,South,Toys,Action Figure,9,227.17,2044.53,253.14,1791.39,Debit Card
+2024-10-02,Tiffany Alvarez,South,Electronics,Smartphone,5,13.65,68.25,6.92,61.33,UPI

@@ -1,0 +1,321 @@
+Does the Child Class Always Run First in Inheritance?
+No, the child class does not always run first. It depends which class you're actually calling or instantiating.
+
+✅ Here's how Python handles inheritance:
+When you create an object of the child class, the following happens:
+
+Python first runs the constructor (__init__) of the child class.
+
+If the child class calls super().__init__(), then the parent class's constructor also runs.
+
+Method Resolution Order (MRO) determines which class's methods get called.
+
+🔍 Example:
+python
+Copy
+Edit
+class Parent:
+    def __init__(self):
+        print("Parent constructor")
+
+class Child(Parent):
+    def __init__(self):
+        print("Child constructor")
+        super().__init__()
+
+obj = Child()
+Output:
+
+kotlin
+Copy
+Edit
+Child constructor
+Parent constructor
+✔️ So, Child runs first, but only because you created a Child() object.
+✔️ And Parent runs only because the child class explicitly called super().__init__().
+
+🔁 If you create a Parent() object:
+python
+Copy
+Edit
+obj = Parent()
+Then the child class doesn’t run at all.
+
+📌 Summary:
+What You Do	What Happens
+Create Parent()	Only parent constructor runs
+Create Child() without super()	Only child constructor runs
+Create Child() with super()	Child constructor runs, then parent constructor
+
+
+
+
+
+
+Sure! Let's break down **`super()`** in Python in a clear and simple way.
+
+---
+
+## 🔍 What is `super()` in Python?
+
+`super()` is a built-in function used in **inheritance** to call a method from the **parent class** (also called the superclass) — **without explicitly naming the parent**.
+
+---
+
+## ✅ Why use `super()`?
+
+* To avoid **hardcoding parent class names**
+* To ensure **clean method overriding**
+* Helps in **multiple inheritance** to follow **Method Resolution Order (MRO)**
+
+---
+
+## 🧪 Basic Example:
+
+```python
+class Parent:
+    def __init__(self):
+        print("Parent constructor")
+
+class Child(Parent):
+    def __init__(self):
+        print("Child constructor")
+        super().__init__()  # Call parent constructor
+
+obj = Child()
+```
+
+**Output:**
+
+```
+Child constructor
+Parent constructor
+```
+
+---
+
+## 📌 How It Works:
+
+* `super().__init__()` calls the **constructor of the immediate parent** of `Child`.
+* You can also use `super().some_method()` to call any parent method.
+
+---
+
+## 🧱 Without `super()` vs With `super()`
+
+### ❌ Without `super()`:
+
+```python
+class Child(Parent):
+    def __init__(self):
+        Parent.__init__(self)  # Explicitly calling parent constructor
+```
+
+This works, but:
+
+* It's **tightly coupled** to the parent class name
+* **Breaks easily** in multiple inheritance
+
+---
+
+## ✅ With `super()`:
+
+```python
+class Child(Parent):
+    def __init__(self):
+        super().__init__()  # Better and cleaner
+```
+
+---
+
+## 🔁 In Methods (not just constructors):
+
+```python
+class Parent:
+    def greet(self):
+        print("Hello from Parent")
+
+class Child(Parent):
+    def greet(self):
+        super().greet()
+        print("Hello from Child")
+
+obj = Child()
+obj.greet()
+```
+
+**Output:**
+
+```
+Hello from Parent
+Hello from Child
+```
+
+---
+
+## 🧠 In Multiple Inheritance:
+
+`super()` follows **Method Resolution Order (MRO)** automatically:
+
+```python
+class A:
+    def show(self):
+        print("A")
+
+class B(A):
+    def show(self):
+        print("B")
+        super().show()
+
+class C(B):
+    def show(self):
+        print("C")
+        super().show()
+
+obj = C()
+obj.show()
+```
+
+**Output:**
+
+```
+C
+B
+A
+```
+
+`super()` here climbs the inheritance chain in MRO order.
+
+---
+
+## ✅ Summary:
+
+| Feature      | With `super()`                   | Without `super()`         |
+| ------------ | -------------------------------- | ------------------------- |
+| Parent call  | Clean & automatic                | Hardcoded                 |
+| Supports MRO | Yes                              | No                        |
+| Best for     | Modern OOP, multiple inheritance | Simple single inheritance |
+
+---
+
+
+Great! Let's explore **`super()` in method overriding** and **multiple inheritance** with real examples.
+
+---
+
+## ✅ 1. **`super()` in Method Overriding**
+
+When a **child class overrides** a method from the parent class, `super()` can be used to **extend** the parent’s behavior rather than replace it entirely.
+
+### 🔍 Example:
+
+```python
+class Animal:
+    def speak(self):
+        print("Animal speaks")
+
+class Dog(Animal):
+    def speak(self):
+        super().speak()  # Call parent method
+        print("Dog barks")
+
+d = Dog()
+d.speak()
+```
+
+### 🧾 Output:
+
+```
+Animal speaks
+Dog barks
+```
+
+✔️ This allows the `Dog` to **extend** `Animal`'s `speak()` method.
+
+---
+
+## ✅ 2. **`super()` in Multiple Inheritance**
+
+In **multiple inheritance**, `super()` works based on **Method Resolution Order (MRO)**, which ensures that methods are called in a **consistent and predictable order**.
+
+### 🔍 Example:
+
+```python
+class A:
+    def show(self):
+        print("A")
+
+class B(A):
+    def show(self):
+        print("B")
+        super().show()
+
+class C(A):
+    def show(self):
+        print("C")
+        super().show()
+
+class D(B, C):  # Multiple inheritance
+    def show(self):
+        print("D")
+        super().show()
+
+obj = D()
+obj.show()
+```
+
+### 🧾 Output:
+
+```
+D
+B
+C
+A
+```
+
+### ✅ What Happened?
+
+Python follows **MRO (Method Resolution Order)**:
+
+```python
+print(D.__mro__)
+# (<class '__main__.D'>, <class '__main__.B'>, <class '__main__.C'>, <class '__main__.A'>, <class 'object'>)
+```
+
+So:
+
+* `D.show()` runs first
+* Then `B.show()`, which uses `super()` → goes to `C`
+* `C.show()` uses `super()` → goes to `A`
+
+That’s why all classes in the chain are called without repeating or skipping.
+
+---
+
+## 🧠 When to Use `super()` in Multiple Inheritance
+
+Use `super()` **in every class** that overrides a method so that Python can follow the chain properly.
+
+```python
+def method(self):
+    # Your class logic
+    super().method()  # Forward to next in MRO
+```
+
+---
+
+## ❗Note
+
+Always define methods using `super()` in **all involved classes** — if one class skips `super()`, it can **break the chain** in MRO.
+
+---
+
+## ✅ Summary Table
+
+| Feature                           | Behavior                                         |
+| --------------------------------- | ------------------------------------------------ |
+| `super()` in overriding           | Calls parent method, adds child-specific logic   |
+| `super()` in multiple inheritance | Ensures all parent classes are called once (MRO) |
+| Safer than direct parent call     | Yes, especially in multiple inheritance          |
+
+---

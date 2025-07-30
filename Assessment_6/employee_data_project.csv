@@ -1,0 +1,501 @@
+Employee_ID,Name,Department,Position,Salary,Joining_Date,Performance_Rating,Leaves_Taken,Attendance_Rate,Age
+EMP1000,Employee_0,Sales,Manager,35415,2018-12-05,Good,26,86.05,32
+EMP1001,Employee_1,Marketing,Team Lead,66159,2022-12-05,Good,26,84.84,43
+EMP1002,Employee_2,IT,Analyst,73925,2022-10-17,Poor,1,74.09,54
+EMP1003,Employee_3,Marketing,Analyst,35951,2022-02-17,Good,8,93.66,57
+EMP1004,Employee_4,Marketing,Team Lead,117388,2024-08-18,Good,15,78.85,44
+EMP1005,Employee_5,Finance,Intern,38007,2019-12-11,Good,12,99.16,55
+EMP1006,Employee_6,IT,Analyst,71832,2021-05-08,Average,8,85.37,30
+EMP1007,Employee_7,IT,Intern,88596,2024-11-18,Good,19,65.05,45
+EMP1008,Employee_8,IT,Analyst,60523,2021-01-17,Good,3,87.05,29
+EMP1009,Employee_9,Marketing,Analyst,118861,2021-07-15,Average,21,73.0,28
+EMP1010,Employee_10,Sales,Executive,116740,2019-05-04,Average,9,87.45,57
+EMP1011,Employee_11,IT,Analyst,45524,2022-04-11,Good,25,62.79,39
+EMP1012,Employee_12,R&D,Manager,49282,2018-02-16,Average,25,67.0,24
+EMP1013,Employee_13,Marketing,Team Lead,53930,2020-02-17,Good,21,94.23,49
+EMP1014,Employee_14,Finance,Team Lead,30077,2020-11-05,Good,11,69.09,27
+EMP1015,Employee_15,Sales,Intern,135881,2019-12-12,Excellent,16,93.48,42
+EMP1016,Employee_16,R&D,Analyst,50611,2019-02-05,Poor,13,71.17,49
+EMP1017,Employee_17,R&D,Manager,46984,2022-12-23,Excellent,13,85.72,22
+EMP1018,Employee_18,Finance,Intern,44060,2018-09-07,Good,24,87.77,57
+EMP1019,Employee_19,Sales,Executive,112985,2019-01-26,Excellent,1,80.51,42
+EMP1020,Employee_20,Marketing,Intern,114056,2018-12-01,Average,20,72.21,56
+EMP1021,Employee_21,HR,Intern,73303,2019-09-21,Good,24,68.51,34
+EMP1022,Employee_22,Sales,Analyst,89207,2018-05-17,Excellent,19,61.33,31
+EMP1023,Employee_23,Finance,Executive,105046,2022-03-02,Excellent,10,72.16,31
+EMP1024,Employee_24,R&D,Intern,59287,2020-04-06,Excellent,15,86.13,34
+EMP1025,Employee_25,Marketing,Manager,123709,2019-12-28,Good,18,97.53,58
+EMP1026,Employee_26,Sales,Manager,69711,2022-02-09,Average,22,94.85,59
+EMP1027,Employee_27,HR,Team Lead,41954,2020-09-16,Good,5,90.64,45
+EMP1028,Employee_28,HR,Executive,103340,2024-08-16,Good,23,91.54,23
+EMP1029,Employee_29,IT,Executive,102101,2020-07-23,Average,18,86.6,43
+EMP1030,Employee_30,IT,Team Lead,101520,2019-02-06,Excellent,4,70.41,38
+EMP1031,Employee_31,Finance,Intern,117062,2022-01-06,Good,25,96.29,57
+EMP1032,Employee_32,Sales,Executive,132974,2019-09-07,Poor,3,86.83,35
+EMP1033,Employee_33,Sales,Manager,48574,2021-07-20,Good,14,82.42,31
+EMP1034,Employee_34,R&D,Manager,39184,2021-03-28,Good,28,64.44,56
+EMP1035,Employee_35,R&D,Analyst,49096,2024-02-14,Good,3,77.88,46
+EMP1036,Employee_36,R&D,Executive,97728,2021-01-26,Good,19,78.41,24
+EMP1037,Employee_37,IT,Intern,64016,2018-05-11,Good,9,94.58,59
+EMP1038,Employee_38,Sales,Team Lead,41246,2021-04-09,Excellent,23,81.87,38
+EMP1039,Employee_39,Sales,Team Lead,75558,2018-07-02,Excellent,21,75.22,33
+EMP1040,Employee_40,HR,Intern,148721,2018-12-30,Excellent,2,99.07,45
+EMP1041,Employee_41,IT,Analyst,48381,2018-02-08,Poor,25,64.43,50
+EMP1042,Employee_42,Marketing,Team Lead,66455,2024-12-19,Average,4,76.9,46
+EMP1043,Employee_43,IT,Executive,122263,2021-10-04,Excellent,5,61.68,57
+EMP1044,Employee_44,Marketing,Analyst,34018,2020-07-09,Excellent,20,89.6,47
+EMP1045,Employee_45,HR,Executive,41302,2018-01-16,Average,21,96.72,59
+EMP1046,Employee_46,Finance,Manager,97506,2019-05-08,Excellent,7,71.2,22
+EMP1047,Employee_47,Sales,Analyst,71157,2021-12-20,Good,6,94.33,41
+EMP1048,Employee_48,HR,Team Lead,84917,2021-02-05,Poor,20,71.69,49
+EMP1049,Employee_49,Sales,Analyst,122738,2018-11-07,Good,9,96.43,37
+EMP1050,Employee_50,R&D,Analyst,126646,2020-01-09,Average,5,90.16,38
+EMP1051,Employee_51,Finance,Analyst,113122,2019-06-30,Poor,13,92.2,49
+EMP1052,Employee_52,Finance,Analyst,54519,2024-09-27,Good,3,60.72,33
+EMP1053,Employee_53,HR,Executive,126809,2018-09-08,Excellent,27,98.51,48
+EMP1054,Employee_54,Finance,Manager,117487,2020-01-29,Good,24,89.07,51
+EMP1055,Employee_55,Marketing,Intern,86819,2022-12-10,Average,12,72.19,55
+EMP1056,Employee_56,Finance,Analyst,110910,2021-07-21,Average,19,93.18,58
+EMP1057,Employee_57,Sales,Team Lead,101324,2022-06-20,Average,16,71.26,27
+EMP1058,Employee_58,Sales,Analyst,35408,2023-03-30,Excellent,22,94.91,28
+EMP1059,Employee_59,Sales,Team Lead,89379,2020-03-24,Average,6,64.5,53
+EMP1060,Employee_60,Sales,Executive,55053,2018-01-29,Poor,3,88.15,53
+EMP1061,Employee_61,Marketing,Team Lead,39446,2020-08-15,Average,28,81.63,46
+EMP1062,Employee_62,IT,Intern,30922,2023-07-26,Poor,13,63.86,54
+EMP1063,Employee_63,R&D,Manager,128723,2019-04-22,Average,2,69.68,28
+EMP1064,Employee_64,HR,Team Lead,81356,2018-11-14,Average,23,60.5,33
+EMP1065,Employee_65,Sales,Team Lead,40789,2018-09-02,Good,4,78.75,37
+EMP1066,Employee_66,Finance,Manager,127720,2020-01-18,Good,15,72.05,37
+EMP1067,Employee_67,Sales,Intern,96656,2019-11-28,Excellent,25,83.93,57
+EMP1068,Employee_68,Finance,Analyst,74028,2018-09-29,Average,22,71.89,34
+EMP1069,Employee_69,R&D,Team Lead,94484,2022-11-07,Good,19,72.0,28
+EMP1070,Employee_70,R&D,Manager,62154,2021-06-16,Average,3,89.73,57
+EMP1071,Employee_71,R&D,Executive,112870,2024-08-21,Poor,23,61.93,30
+EMP1072,Employee_72,Finance,Manager,32336,2018-09-23,Average,29,96.12,53
+EMP1073,Employee_73,Sales,Executive,133677,2020-07-09,Excellent,23,94.09,32
+EMP1074,Employee_74,R&D,Intern,97779,2018-12-06,Good,1,86.71,29
+EMP1075,Employee_75,Marketing,Analyst,49029,2019-01-24,Excellent,29,83.73,54
+EMP1076,Employee_76,Finance,Manager,89201,2023-08-13,Average,17,95.69,44
+EMP1077,Employee_77,Finance,Team Lead,62265,2021-03-11,Average,18,67.41,46
+EMP1078,Employee_78,Sales,Intern,132916,2019-01-11,Poor,27,63.16,29
+EMP1079,Employee_79,Finance,Manager,142250,2023-07-27,Good,27,69.58,43
+EMP1080,Employee_80,Finance,Team Lead,146553,2024-06-29,Poor,18,91.78,25
+EMP1081,Employee_81,R&D,Manager,73872,2018-05-26,Average,16,61.39,24
+EMP1082,Employee_82,Sales,Executive,76197,2023-06-05,Good,13,83.31,50
+EMP1083,Employee_83,R&D,Manager,85180,2018-10-20,Average,18,99.82,50
+EMP1084,Employee_84,R&D,Manager,53710,2019-03-08,Good,21,94.23,55
+EMP1085,Employee_85,Sales,Manager,59486,2019-12-06,Good,23,80.86,55
+EMP1086,Employee_86,HR,Intern,101907,2023-06-22,Average,12,62.55,49
+EMP1087,Employee_87,R&D,Manager,101895,2019-02-03,Good,11,93.25,34
+EMP1088,Employee_88,Marketing,Team Lead,94435,2020-08-21,Average,29,83.96,36
+EMP1089,Employee_89,Marketing,Executive,70631,2024-02-13,Average,25,64.6,44
+EMP1090,Employee_90,Finance,Executive,131532,2023-08-04,Good,5,63.75,47
+EMP1091,Employee_91,Marketing,Manager,50103,2023-01-03,Good,20,96.39,25
+EMP1092,Employee_92,Finance,Intern,94772,2023-10-10,Good,3,86.77,47
+EMP1093,Employee_93,HR,Intern,44382,2020-07-27,Good,18,93.17,30
+EMP1094,Employee_94,Sales,Team Lead,114291,2019-12-11,Good,15,95.16,26
+EMP1095,Employee_95,Sales,Manager,131195,2020-03-17,Good,12,82.87,53
+EMP1096,Employee_96,Sales,Executive,33756,2022-01-03,Excellent,3,80.7,41
+EMP1097,Employee_97,Marketing,Intern,50609,2021-08-18,Good,29,77.22,32
+EMP1098,Employee_98,HR,Manager,144074,2018-01-11,Excellent,22,72.68,36
+EMP1099,Employee_99,Marketing,Intern,46478,2020-12-21,Average,16,77.38,53
+EMP1100,Employee_100,Marketing,Intern,130978,2023-02-12,Average,22,90.96,49
+EMP1101,Employee_101,HR,Executive,69666,2024-03-23,Good,0,84.08,43
+EMP1102,Employee_102,HR,Analyst,105683,2020-02-11,Good,17,95.7,38
+EMP1103,Employee_103,HR,Team Lead,129097,2022-05-14,Poor,19,77.74,47
+EMP1104,Employee_104,HR,Team Lead,130420,2022-05-27,Average,16,84.28,28
+EMP1105,Employee_105,Sales,Executive,101315,2021-08-26,Poor,26,85.25,47
+EMP1106,Employee_106,IT,Intern,107834,2020-06-03,Average,27,83.67,46
+EMP1107,Employee_107,IT,Manager,44153,2021-10-21,Excellent,26,88.11,31
+EMP1108,Employee_108,HR,Intern,139415,2018-08-14,Excellent,14,69.5,40
+EMP1109,Employee_109,IT,Executive,106325,2020-04-04,Good,10,80.49,32
+EMP1110,Employee_110,IT,Team Lead,139701,2024-03-15,Good,24,64.17,34
+EMP1111,Employee_111,HR,Intern,42999,2020-07-25,Good,27,75.38,29
+EMP1112,Employee_112,IT,Team Lead,85318,2024-12-28,Good,21,79.51,25
+EMP1113,Employee_113,Marketing,Manager,30814,2024-04-25,Good,12,86.09,52
+EMP1114,Employee_114,Finance,Team Lead,145033,2023-03-27,Average,0,98.02,49
+EMP1115,Employee_115,Finance,Team Lead,106077,2022-12-02,Average,16,84.03,32
+EMP1116,Employee_116,HR,Analyst,120474,2018-02-23,Good,5,89.74,22
+EMP1117,Employee_117,Sales,Analyst,32443,2019-12-28,Average,3,80.25,59
+EMP1118,Employee_118,HR,Analyst,105993,2022-03-25,Good,19,85.36,45
+EMP1119,Employee_119,Sales,Team Lead,105916,2020-11-09,Average,15,62.84,52
+EMP1120,Employee_120,Finance,Executive,103319,2023-03-29,Excellent,14,70.18,47
+EMP1121,Employee_121,HR,Team Lead,139777,2022-11-12,Poor,26,74.47,26
+EMP1122,Employee_122,R&D,Executive,47368,2022-05-16,Average,14,78.9,41
+EMP1123,Employee_123,Marketing,Executive,45328,2023-03-30,Good,5,61.83,32
+EMP1124,Employee_124,IT,Analyst,86942,2024-10-02,Excellent,14,65.6,54
+EMP1125,Employee_125,Sales,Intern,121751,2020-04-29,Good,13,71.07,59
+EMP1126,Employee_126,R&D,Manager,129131,2023-10-11,Excellent,27,98.86,48
+EMP1127,Employee_127,IT,Analyst,57306,2024-03-13,Excellent,10,73.25,55
+EMP1128,Employee_128,IT,Analyst,115451,2018-01-03,Average,6,79.28,36
+EMP1129,Employee_129,HR,Intern,69915,2018-06-09,Good,8,67.84,53
+EMP1130,Employee_130,IT,Manager,67219,2020-02-20,Average,25,84.43,42
+EMP1131,Employee_131,Marketing,Team Lead,110879,2020-06-11,Poor,15,71.23,26
+EMP1132,Employee_132,R&D,Team Lead,141939,2023-07-24,Good,4,68.28,27
+EMP1133,Employee_133,IT,Analyst,94644,2024-07-04,Good,24,80.66,59
+EMP1134,Employee_134,HR,Manager,90279,2019-08-03,Excellent,19,60.22,43
+EMP1135,Employee_135,Marketing,Analyst,83028,2023-04-18,Average,28,60.31,39
+EMP1136,Employee_136,Finance,Executive,134263,2021-10-12,Good,9,68.76,35
+EMP1137,Employee_137,R&D,Analyst,30126,2021-07-14,Poor,17,61.47,31
+EMP1138,Employee_138,IT,Analyst,82329,2022-06-29,Average,2,64.32,34
+EMP1139,Employee_139,HR,Team Lead,57632,2020-08-09,Good,12,73.55,52
+EMP1140,Employee_140,Finance,Team Lead,137099,2020-09-14,Excellent,10,92.1,51
+EMP1141,Employee_141,Finance,Team Lead,95310,2021-05-03,Average,16,82.88,24
+EMP1142,Employee_142,Sales,Executive,139945,2020-07-09,Average,29,80.51,51
+EMP1143,Employee_143,Marketing,Team Lead,85176,2021-09-17,Excellent,29,71.74,27
+EMP1144,Employee_144,IT,Manager,149797,2018-06-19,Good,21,97.27,50
+EMP1145,Employee_145,HR,Intern,116066,2019-06-05,Average,12,75.88,29
+EMP1146,Employee_146,Sales,Manager,135500,2022-01-26,Excellent,5,63.48,54
+EMP1147,Employee_147,Marketing,Manager,74327,2018-02-09,Poor,16,84.68,38
+EMP1148,Employee_148,Sales,Team Lead,98904,2022-04-10,Good,26,64.55,32
+EMP1149,Employee_149,R&D,Intern,33797,2021-11-19,Excellent,12,73.81,34
+EMP1150,Employee_150,Marketing,Intern,77882,2020-08-12,Average,18,80.3,32
+EMP1151,Employee_151,Marketing,Intern,43718,2020-09-10,Good,20,94.97,52
+EMP1152,Employee_152,IT,Executive,64560,2020-09-01,Good,18,79.74,49
+EMP1153,Employee_153,Marketing,Team Lead,106589,2018-02-07,Excellent,9,88.09,27
+EMP1154,Employee_154,Sales,Intern,52116,2024-07-03,Excellent,2,99.71,37
+EMP1155,Employee_155,Marketing,Executive,66244,2021-06-28,Average,13,65.26,25
+EMP1156,Employee_156,IT,Analyst,131721,2021-04-14,Good,25,70.99,56
+EMP1157,Employee_157,IT,Analyst,31645,2022-06-14,Good,18,75.78,47
+EMP1158,Employee_158,R&D,Executive,77523,2020-07-02,Average,4,76.87,33
+EMP1159,Employee_159,Sales,Executive,147718,2019-03-30,Average,28,76.44,32
+EMP1160,Employee_160,Finance,Team Lead,49256,2018-02-06,Excellent,4,96.3,58
+EMP1161,Employee_161,Finance,Team Lead,131376,2022-09-08,Good,19,88.56,46
+EMP1162,Employee_162,Marketing,Analyst,130158,2020-03-06,Poor,16,84.32,39
+EMP1163,Employee_163,R&D,Intern,83173,2020-08-30,Average,20,72.37,40
+EMP1164,Employee_164,HR,Analyst,67430,2019-08-16,Good,9,92.95,44
+EMP1165,Employee_165,Marketing,Intern,69282,2021-02-11,Good,4,98.2,59
+EMP1166,Employee_166,R&D,Intern,149719,2021-08-17,Good,3,92.85,39
+EMP1167,Employee_167,Sales,Team Lead,93374,2024-03-21,Average,5,60.06,47
+EMP1168,Employee_168,Sales,Manager,98244,2018-11-14,Average,25,85.46,27
+EMP1169,Employee_169,Sales,Manager,41694,2024-07-24,Average,3,62.05,25
+EMP1170,Employee_170,Sales,Executive,86264,2023-12-03,Average,29,70.3,50
+EMP1171,Employee_171,Sales,Team Lead,105060,2021-09-08,Average,6,62.38,55
+EMP1172,Employee_172,R&D,Intern,127416,2022-05-11,Excellent,6,84.15,38
+EMP1173,Employee_173,R&D,Manager,87545,2023-03-05,Good,17,87.46,37
+EMP1174,Employee_174,IT,Intern,148195,2023-09-19,Excellent,2,64.58,23
+EMP1175,Employee_175,Finance,Manager,69224,2023-06-20,Good,0,75.35,55
+EMP1176,Employee_176,Sales,Manager,132516,2022-11-08,Average,23,78.25,29
+EMP1177,Employee_177,HR,Manager,127945,2021-08-05,Good,24,74.76,34
+EMP1178,Employee_178,R&D,Team Lead,43224,2021-07-09,Good,3,64.84,29
+EMP1179,Employee_179,HR,Analyst,70738,2018-08-04,Excellent,5,76.76,51
+EMP1180,Employee_180,HR,Intern,55150,2024-07-11,Good,8,90.05,53
+EMP1181,Employee_181,HR,Team Lead,93731,2023-11-10,Good,21,62.84,57
+EMP1182,Employee_182,IT,Team Lead,79688,2024-07-28,Good,13,63.21,51
+EMP1183,Employee_183,R&D,Team Lead,129929,2022-09-01,Average,27,74.19,22
+EMP1184,Employee_184,HR,Team Lead,138618,2018-12-29,Good,11,97.67,38
+EMP1185,Employee_185,Sales,Team Lead,103509,2022-09-13,Average,27,86.74,41
+EMP1186,Employee_186,Marketing,Executive,38577,2021-04-08,Excellent,24,87.15,45
+EMP1187,Employee_187,HR,Intern,38070,2018-12-22,Excellent,19,74.48,43
+EMP1188,Employee_188,IT,Team Lead,38666,2018-07-10,Good,23,83.75,50
+EMP1189,Employee_189,R&D,Intern,87761,2024-10-05,Good,24,60.41,43
+EMP1190,Employee_190,IT,Executive,66368,2019-12-01,Average,3,85.44,30
+EMP1191,Employee_191,HR,Executive,36783,2023-08-17,Good,20,96.53,58
+EMP1192,Employee_192,R&D,Intern,141530,2023-12-21,Good,29,84.5,31
+EMP1193,Employee_193,Marketing,Manager,71914,2019-07-11,Average,23,94.95,57
+EMP1194,Employee_194,HR,Analyst,100507,2020-04-05,Excellent,11,88.96,58
+EMP1195,Employee_195,IT,Manager,109026,2020-11-20,Good,9,64.82,49
+EMP1196,Employee_196,Finance,Manager,145893,2019-03-02,Average,29,96.1,49
+EMP1197,Employee_197,Sales,Manager,141255,2024-08-07,Average,21,62.66,42
+EMP1198,Employee_198,IT,Team Lead,140616,2022-04-24,Good,27,81.36,45
+EMP1199,Employee_199,R&D,Executive,97526,2023-10-31,Poor,6,65.69,23
+EMP1200,Employee_200,HR,Manager,100835,2024-07-31,Average,2,60.47,29
+EMP1201,Employee_201,Sales,Executive,75765,2019-08-12,Good,22,76.88,48
+EMP1202,Employee_202,HR,Intern,49956,2023-07-06,Average,27,71.8,43
+EMP1203,Employee_203,R&D,Analyst,117895,2022-03-28,Good,13,79.44,58
+EMP1204,Employee_204,HR,Intern,76240,2018-10-22,Good,23,83.09,48
+EMP1205,Employee_205,Finance,Intern,67148,2023-06-09,Good,9,61.75,50
+EMP1206,Employee_206,Sales,Team Lead,124270,2021-06-01,Good,15,64.92,24
+EMP1207,Employee_207,Sales,Analyst,34757,2022-03-29,Average,15,82.35,34
+EMP1208,Employee_208,R&D,Intern,49097,2022-08-18,Good,21,73.73,31
+EMP1209,Employee_209,Finance,Intern,40395,2021-02-10,Average,9,89.17,57
+EMP1210,Employee_210,IT,Analyst,46241,2021-06-10,Average,24,86.09,30
+EMP1211,Employee_211,HR,Analyst,133892,2023-08-27,Excellent,12,93.82,48
+EMP1212,Employee_212,Marketing,Intern,57696,2018-12-26,Average,5,87.7,55
+EMP1213,Employee_213,HR,Analyst,145654,2019-12-01,Good,11,77.2,22
+EMP1214,Employee_214,HR,Intern,100480,2019-03-24,Good,8,86.92,53
+EMP1215,Employee_215,IT,Intern,76163,2024-08-09,Average,12,71.02,46
+EMP1216,Employee_216,HR,Team Lead,49816,2019-11-06,Good,3,72.25,50
+EMP1217,Employee_217,Finance,Manager,79840,2020-10-04,Good,23,91.56,28
+EMP1218,Employee_218,Finance,Intern,132547,2021-09-11,Excellent,10,77.86,24
+EMP1219,Employee_219,Sales,Executive,82853,2024-11-19,Excellent,19,91.94,41
+EMP1220,Employee_220,R&D,Manager,54917,2024-09-27,Good,17,92.9,41
+EMP1221,Employee_221,Marketing,Manager,126731,2019-08-09,Good,25,94.3,51
+EMP1222,Employee_222,HR,Manager,51566,2021-06-10,Poor,10,96.67,56
+EMP1223,Employee_223,HR,Team Lead,105452,2021-06-01,Good,24,77.24,56
+EMP1224,Employee_224,IT,Intern,92823,2020-09-20,Good,20,72.75,48
+EMP1225,Employee_225,R&D,Team Lead,50806,2021-12-06,Good,3,83.29,47
+EMP1226,Employee_226,Finance,Intern,105520,2019-07-26,Excellent,17,74.85,35
+EMP1227,Employee_227,Marketing,Team Lead,31759,2024-07-10,Poor,0,84.04,38
+EMP1228,Employee_228,Sales,Team Lead,71949,2021-05-30,Average,26,88.22,39
+EMP1229,Employee_229,Finance,Executive,122374,2023-09-16,Average,6,87.54,50
+EMP1230,Employee_230,R&D,Team Lead,32482,2020-09-15,Excellent,5,74.98,41
+EMP1231,Employee_231,Sales,Analyst,54442,2018-10-05,Good,14,66.67,48
+EMP1232,Employee_232,IT,Executive,63719,2021-05-04,Good,17,77.22,39
+EMP1233,Employee_233,IT,Team Lead,88066,2023-03-03,Average,23,65.7,25
+EMP1234,Employee_234,HR,Manager,123501,2019-04-29,Excellent,10,95.6,22
+EMP1235,Employee_235,R&D,Analyst,32079,2021-06-19,Good,19,73.84,22
+EMP1236,Employee_236,Marketing,Analyst,32717,2020-01-01,Poor,23,66.18,47
+EMP1237,Employee_237,Sales,Analyst,89676,2024-02-18,Good,14,61.02,41
+EMP1238,Employee_238,Finance,Executive,57952,2020-11-06,Good,15,85.83,44
+EMP1239,Employee_239,R&D,Team Lead,116444,2020-07-06,Excellent,6,85.48,31
+EMP1240,Employee_240,R&D,Team Lead,72460,2024-09-14,Poor,20,73.62,32
+EMP1241,Employee_241,IT,Manager,120397,2020-06-04,Excellent,9,62.87,26
+EMP1242,Employee_242,HR,Manager,102847,2018-01-22,Average,25,76.39,22
+EMP1243,Employee_243,HR,Analyst,123607,2019-04-19,Average,11,72.45,38
+EMP1244,Employee_244,Sales,Manager,119106,2024-03-07,Good,23,87.08,43
+EMP1245,Employee_245,IT,Executive,48449,2024-06-11,Average,13,84.23,55
+EMP1246,Employee_246,R&D,Team Lead,63536,2019-12-05,Excellent,24,74.58,50
+EMP1247,Employee_247,Marketing,Analyst,94077,2019-11-18,Good,4,68.72,25
+EMP1248,Employee_248,IT,Manager,68258,2018-10-12,Average,25,99.52,26
+EMP1249,Employee_249,Sales,Executive,78302,2019-12-17,Average,20,78.16,32
+EMP1250,Employee_250,Sales,Executive,58865,2020-02-02,Average,17,87.53,42
+EMP1251,Employee_251,IT,Manager,36645,2021-06-04,Good,4,65.62,56
+EMP1252,Employee_252,Sales,Team Lead,149771,2020-08-05,Excellent,2,79.42,33
+EMP1253,Employee_253,IT,Manager,68000,2024-08-25,Excellent,22,61.1,47
+EMP1254,Employee_254,Finance,Analyst,56737,2024-11-12,Excellent,25,80.22,40
+EMP1255,Employee_255,IT,Manager,41485,2020-10-27,Good,4,98.56,28
+EMP1256,Employee_256,IT,Executive,68565,2018-01-29,Good,23,75.37,28
+EMP1257,Employee_257,Sales,Manager,55522,2020-06-25,Good,16,61.56,47
+EMP1258,Employee_258,Sales,Team Lead,149614,2023-10-28,Good,18,61.24,26
+EMP1259,Employee_259,HR,Intern,95155,2024-11-11,Good,18,75.52,42
+EMP1260,Employee_260,HR,Manager,85168,2019-07-24,Good,24,66.4,35
+EMP1261,Employee_261,Finance,Team Lead,82487,2023-06-30,Average,20,60.93,25
+EMP1262,Employee_262,HR,Team Lead,42342,2021-12-24,Good,11,90.25,44
+EMP1263,Employee_263,IT,Executive,70806,2020-01-08,Poor,24,78.34,41
+EMP1264,Employee_264,Sales,Team Lead,78770,2019-05-31,Average,28,71.57,36
+EMP1265,Employee_265,HR,Team Lead,108623,2023-06-24,Excellent,8,96.0,50
+EMP1266,Employee_266,HR,Team Lead,133177,2024-09-10,Average,0,64.65,29
+EMP1267,Employee_267,Finance,Team Lead,129785,2018-02-08,Good,17,98.24,40
+EMP1268,Employee_268,R&D,Analyst,105629,2020-06-05,Good,20,72.56,49
+EMP1269,Employee_269,Finance,Analyst,82603,2024-01-14,Good,3,95.54,48
+EMP1270,Employee_270,IT,Executive,142726,2021-01-03,Good,9,84.12,25
+EMP1271,Employee_271,Sales,Manager,111974,2022-12-29,Good,24,93.07,36
+EMP1272,Employee_272,Finance,Team Lead,135947,2022-09-07,Good,6,99.36,56
+EMP1273,Employee_273,HR,Manager,56399,2020-08-31,Average,21,71.54,58
+EMP1274,Employee_274,Sales,Manager,115382,2022-04-12,Average,22,98.45,22
+EMP1275,Employee_275,Sales,Executive,111244,2020-09-15,Good,0,75.58,24
+EMP1276,Employee_276,HR,Team Lead,139575,2018-01-21,Average,16,75.42,45
+EMP1277,Employee_277,Finance,Team Lead,145520,2024-06-08,Excellent,23,73.62,48
+EMP1278,Employee_278,HR,Intern,140904,2020-05-18,Good,28,81.66,57
+EMP1279,Employee_279,R&D,Manager,106534,2018-03-25,Average,28,66.17,55
+EMP1280,Employee_280,Sales,Manager,85106,2022-08-10,Good,1,82.15,50
+EMP1281,Employee_281,Marketing,Analyst,142599,2023-05-31,Excellent,27,81.67,45
+EMP1282,Employee_282,Marketing,Intern,60678,2021-11-11,Excellent,25,90.48,45
+EMP1283,Employee_283,IT,Analyst,106218,2022-03-11,Good,10,93.35,25
+EMP1284,Employee_284,HR,Analyst,93230,2019-07-24,Poor,8,77.62,24
+EMP1285,Employee_285,HR,Analyst,144684,2020-07-22,Good,6,72.09,55
+EMP1286,Employee_286,IT,Executive,104055,2023-06-04,Poor,21,70.37,44
+EMP1287,Employee_287,IT,Executive,86373,2023-01-30,Good,16,67.78,44
+EMP1288,Employee_288,IT,Analyst,61480,2020-03-03,Good,16,62.31,26
+EMP1289,Employee_289,Sales,Intern,115230,2020-03-02,Good,1,73.7,52
+EMP1290,Employee_290,R&D,Manager,98836,2022-12-15,Average,5,70.81,27
+EMP1291,Employee_291,HR,Intern,102258,2021-07-18,Excellent,13,98.66,58
+EMP1292,Employee_292,Sales,Team Lead,69986,2024-12-14,Average,5,82.31,31
+EMP1293,Employee_293,IT,Executive,54160,2024-03-05,Average,1,73.89,28
+EMP1294,Employee_294,HR,Manager,115595,2022-05-27,Good,0,83.22,59
+EMP1295,Employee_295,Sales,Manager,131358,2020-12-19,Poor,9,65.57,42
+EMP1296,Employee_296,R&D,Team Lead,109111,2024-10-13,Average,20,77.76,41
+EMP1297,Employee_297,Sales,Team Lead,94929,2020-09-11,Average,4,85.05,24
+EMP1298,Employee_298,R&D,Analyst,103506,2022-08-08,Excellent,1,79.56,43
+EMP1299,Employee_299,IT,Executive,64911,2019-06-04,Good,21,76.07,25
+EMP1300,Employee_300,R&D,Executive,117127,2019-08-14,Good,15,99.75,49
+EMP1301,Employee_301,HR,Intern,61821,2020-11-16,Good,24,95.21,33
+EMP1302,Employee_302,IT,Analyst,105039,2022-09-06,Excellent,1,84.94,59
+EMP1303,Employee_303,HR,Analyst,90535,2023-07-29,Average,9,82.78,57
+EMP1304,Employee_304,Marketing,Analyst,143453,2024-02-25,Excellent,1,84.83,26
+EMP1305,Employee_305,Finance,Analyst,114458,2024-08-31,Good,15,68.05,34
+EMP1306,Employee_306,R&D,Executive,42175,2018-12-15,Poor,15,75.81,44
+EMP1307,Employee_307,Finance,Executive,149235,2020-08-17,Average,18,61.58,51
+EMP1308,Employee_308,Finance,Analyst,84771,2023-05-18,Good,28,79.02,58
+EMP1309,Employee_309,R&D,Intern,136660,2019-11-24,Average,6,81.72,46
+EMP1310,Employee_310,IT,Manager,116925,2022-04-09,Excellent,21,69.11,48
+EMP1311,Employee_311,Marketing,Manager,143374,2019-01-13,Excellent,11,98.56,35
+EMP1312,Employee_312,HR,Intern,96358,2019-06-11,Average,23,96.38,57
+EMP1313,Employee_313,Sales,Analyst,47327,2024-03-03,Good,14,88.89,37
+EMP1314,Employee_314,HR,Executive,77057,2024-11-07,Good,7,81.34,43
+EMP1315,Employee_315,Sales,Manager,36150,2021-06-13,Good,5,94.8,42
+EMP1316,Employee_316,HR,Team Lead,34425,2023-02-19,Excellent,27,65.23,42
+EMP1317,Employee_317,R&D,Team Lead,46032,2022-10-30,Good,26,91.62,29
+EMP1318,Employee_318,Marketing,Intern,32198,2019-06-05,Good,9,64.99,37
+EMP1319,Employee_319,Sales,Analyst,90500,2022-08-29,Average,2,91.77,52
+EMP1320,Employee_320,IT,Manager,83394,2020-10-13,Average,18,71.03,31
+EMP1321,Employee_321,HR,Analyst,50079,2020-10-10,Good,16,95.08,53
+EMP1322,Employee_322,HR,Manager,66220,2024-12-23,Good,6,97.76,55
+EMP1323,Employee_323,Sales,Intern,71874,2018-04-27,Excellent,20,65.95,30
+EMP1324,Employee_324,IT,Intern,43859,2024-08-30,Excellent,19,78.51,38
+EMP1325,Employee_325,IT,Team Lead,80460,2021-09-29,Average,25,99.24,32
+EMP1326,Employee_326,R&D,Analyst,61419,2019-08-07,Good,3,79.34,53
+EMP1327,Employee_327,R&D,Team Lead,148865,2019-01-30,Excellent,13,94.54,31
+EMP1328,Employee_328,R&D,Analyst,38705,2020-12-23,Average,19,83.55,43
+EMP1329,Employee_329,R&D,Team Lead,72880,2018-03-13,Average,21,75.01,38
+EMP1330,Employee_330,R&D,Executive,53236,2018-10-01,Average,14,71.43,25
+EMP1331,Employee_331,R&D,Executive,117955,2023-07-07,Good,23,68.13,46
+EMP1332,Employee_332,Marketing,Executive,115514,2021-09-05,Good,7,90.47,42
+EMP1333,Employee_333,IT,Executive,133145,2018-12-04,Good,20,75.46,58
+EMP1334,Employee_334,R&D,Manager,45358,2021-10-21,Excellent,14,80.45,59
+EMP1335,Employee_335,IT,Executive,129713,2019-08-30,Average,21,79.69,22
+EMP1336,Employee_336,IT,Intern,124914,2018-06-15,Average,19,83.09,46
+EMP1337,Employee_337,Finance,Intern,132870,2022-04-17,Average,27,94.62,57
+EMP1338,Employee_338,Marketing,Manager,106918,2023-08-21,Average,13,99.23,38
+EMP1339,Employee_339,R&D,Executive,149179,2021-08-17,Good,26,76.3,45
+EMP1340,Employee_340,HR,Executive,146243,2019-12-30,Average,28,93.1,23
+EMP1341,Employee_341,Sales,Executive,44596,2023-08-06,Good,8,90.58,36
+EMP1342,Employee_342,HR,Team Lead,63572,2018-04-12,Good,7,82.94,53
+EMP1343,Employee_343,Marketing,Analyst,108757,2021-11-16,Good,25,98.24,27
+EMP1344,Employee_344,Sales,Team Lead,31279,2020-02-18,Excellent,27,68.02,22
+EMP1345,Employee_345,Marketing,Analyst,93197,2018-08-02,Good,25,64.37,44
+EMP1346,Employee_346,IT,Executive,141496,2021-01-16,Poor,16,94.16,38
+EMP1347,Employee_347,Sales,Executive,92516,2022-04-26,Good,1,77.57,55
+EMP1348,Employee_348,IT,Team Lead,37083,2024-09-14,Excellent,24,93.88,50
+EMP1349,Employee_349,HR,Team Lead,139397,2022-08-23,Good,23,95.72,30
+EMP1350,Employee_350,HR,Analyst,47771,2019-08-15,Average,29,62.5,34
+EMP1351,Employee_351,Sales,Intern,59975,2021-08-26,Good,2,95.34,27
+EMP1352,Employee_352,Sales,Analyst,75648,2021-01-14,Average,7,77.93,27
+EMP1353,Employee_353,R&D,Team Lead,78285,2023-11-10,Excellent,11,80.42,41
+EMP1354,Employee_354,Marketing,Team Lead,49063,2019-12-15,Average,0,85.06,24
+EMP1355,Employee_355,R&D,Manager,97642,2020-07-24,Good,9,97.06,38
+EMP1356,Employee_356,Marketing,Team Lead,120093,2023-05-06,Average,19,60.76,33
+EMP1357,Employee_357,R&D,Manager,144390,2018-08-30,Average,2,79.07,22
+EMP1358,Employee_358,IT,Intern,116143,2023-08-06,Excellent,5,87.51,38
+EMP1359,Employee_359,Sales,Analyst,67599,2018-01-02,Excellent,6,88.91,24
+EMP1360,Employee_360,HR,Analyst,81920,2024-03-22,Excellent,19,87.7,47
+EMP1361,Employee_361,Marketing,Manager,58529,2022-11-04,Good,22,65.38,36
+EMP1362,Employee_362,Marketing,Analyst,65954,2023-05-04,Good,24,71.98,57
+EMP1363,Employee_363,HR,Team Lead,57856,2023-12-04,Average,26,74.35,53
+EMP1364,Employee_364,R&D,Executive,32573,2020-07-06,Good,17,92.18,53
+EMP1365,Employee_365,Marketing,Manager,108344,2024-02-20,Good,10,71.15,25
+EMP1366,Employee_366,IT,Analyst,65367,2018-03-31,Excellent,18,68.43,39
+EMP1367,Employee_367,Sales,Manager,132337,2022-09-06,Excellent,4,98.3,40
+EMP1368,Employee_368,HR,Manager,136732,2023-12-10,Average,18,60.35,56
+EMP1369,Employee_369,Sales,Executive,129608,2018-05-23,Good,10,99.91,35
+EMP1370,Employee_370,Marketing,Team Lead,90774,2018-04-16,Average,23,87.07,54
+EMP1371,Employee_371,Marketing,Manager,53752,2020-06-05,Average,11,93.14,35
+EMP1372,Employee_372,HR,Analyst,85029,2019-03-04,Average,9,71.78,55
+EMP1373,Employee_373,IT,Intern,47685,2021-08-21,Average,7,60.57,25
+EMP1374,Employee_374,Finance,Manager,81693,2023-03-11,Good,23,89.51,45
+EMP1375,Employee_375,HR,Manager,146739,2023-06-18,Poor,27,93.37,50
+EMP1376,Employee_376,Finance,Executive,85961,2018-11-13,Excellent,27,89.62,40
+EMP1377,Employee_377,R&D,Team Lead,136937,2023-06-10,Excellent,8,65.71,27
+EMP1378,Employee_378,Finance,Intern,106908,2019-09-27,Average,3,90.14,54
+EMP1379,Employee_379,IT,Analyst,104532,2023-04-10,Poor,4,90.76,40
+EMP1380,Employee_380,R&D,Intern,111994,2023-08-19,Average,20,86.34,22
+EMP1381,Employee_381,Finance,Analyst,86133,2024-03-20,Excellent,7,90.64,26
+EMP1382,Employee_382,R&D,Team Lead,127425,2021-12-10,Good,22,93.84,48
+EMP1383,Employee_383,Finance,Analyst,91268,2019-07-07,Poor,8,84.54,37
+EMP1384,Employee_384,IT,Executive,122201,2019-12-17,Good,14,63.54,27
+EMP1385,Employee_385,Finance,Executive,68243,2021-07-11,Average,14,79.51,34
+EMP1386,Employee_386,Finance,Executive,87384,2022-09-10,Average,15,63.11,56
+EMP1387,Employee_387,Finance,Executive,61653,2023-02-27,Good,13,76.3,40
+EMP1388,Employee_388,HR,Intern,56657,2021-01-12,Good,7,76.28,33
+EMP1389,Employee_389,HR,Team Lead,69952,2021-09-03,Good,17,62.64,37
+EMP1390,Employee_390,HR,Analyst,52180,2018-04-21,Good,9,73.95,31
+EMP1391,Employee_391,IT,Analyst,127432,2018-09-08,Average,27,64.44,46
+EMP1392,Employee_392,R&D,Executive,108411,2024-08-27,Good,19,92.33,41
+EMP1393,Employee_393,Marketing,Executive,31622,2023-08-17,Average,5,97.91,52
+EMP1394,Employee_394,Finance,Manager,78756,2019-04-04,Excellent,11,62.89,25
+EMP1395,Employee_395,Finance,Team Lead,70809,2021-01-12,Poor,1,98.2,44
+EMP1396,Employee_396,IT,Intern,46725,2018-07-27,Good,6,80.9,23
+EMP1397,Employee_397,Finance,Analyst,91396,2020-06-18,Excellent,15,71.98,43
+EMP1398,Employee_398,HR,Manager,81226,2018-01-22,Excellent,2,63.07,58
+EMP1399,Employee_399,Marketing,Manager,136296,2019-02-14,Average,12,80.02,29
+EMP1400,Employee_400,Sales,Analyst,111182,2020-06-13,Average,2,91.78,28
+EMP1401,Employee_401,Finance,Intern,112565,2019-05-30,Average,26,88.28,35
+EMP1402,Employee_402,HR,Manager,59402,2020-03-19,Excellent,17,62.01,24
+EMP1403,Employee_403,Sales,Manager,34263,2020-05-23,Excellent,10,62.92,37
+EMP1404,Employee_404,Marketing,Team Lead,126523,2018-01-14,Good,7,76.11,40
+EMP1405,Employee_405,Sales,Intern,76828,2020-08-28,Good,5,71.81,39
+EMP1406,Employee_406,HR,Manager,77924,2023-11-05,Good,0,69.3,37
+EMP1407,Employee_407,R&D,Intern,104182,2022-04-10,Poor,27,71.24,29
+EMP1408,Employee_408,R&D,Analyst,123065,2021-08-17,Poor,0,92.14,54
+EMP1409,Employee_409,Sales,Executive,89052,2021-06-20,Poor,22,97.17,33
+EMP1410,Employee_410,IT,Manager,41664,2023-12-10,Average,7,76.2,32
+EMP1411,Employee_411,Sales,Team Lead,65737,2020-01-20,Good,4,96.24,26
+EMP1412,Employee_412,Finance,Analyst,131332,2019-11-16,Good,27,72.86,48
+EMP1413,Employee_413,Finance,Intern,119563,2023-04-12,Good,15,79.06,33
+EMP1414,Employee_414,R&D,Analyst,59373,2024-06-14,Average,10,69.04,38
+EMP1415,Employee_415,IT,Manager,147369,2019-11-26,Excellent,4,85.62,27
+EMP1416,Employee_416,HR,Intern,66397,2024-05-24,Good,3,99.16,54
+EMP1417,Employee_417,Finance,Executive,116145,2018-11-03,Excellent,29,84.14,26
+EMP1418,Employee_418,R&D,Analyst,131371,2023-06-13,Good,5,74.31,49
+EMP1419,Employee_419,Marketing,Manager,68709,2019-10-24,Average,13,85.91,35
+EMP1420,Employee_420,R&D,Team Lead,146074,2019-07-03,Average,21,64.92,26
+EMP1421,Employee_421,Finance,Intern,91120,2018-11-08,Good,18,95.55,54
+EMP1422,Employee_422,Finance,Analyst,49250,2020-12-18,Poor,8,80.12,40
+EMP1423,Employee_423,R&D,Analyst,51172,2022-10-04,Average,11,77.97,43
+EMP1424,Employee_424,HR,Executive,41555,2020-01-25,Excellent,10,83.43,26
+EMP1425,Employee_425,Sales,Executive,117410,2018-02-04,Good,13,84.99,23
+EMP1426,Employee_426,Finance,Team Lead,108617,2019-03-21,Good,22,62.87,51
+EMP1427,Employee_427,R&D,Team Lead,83276,2023-11-11,Excellent,15,87.3,25
+EMP1428,Employee_428,R&D,Manager,87492,2023-06-06,Poor,0,69.68,54
+EMP1429,Employee_429,IT,Manager,83002,2021-05-15,Good,12,88.56,34
+EMP1430,Employee_430,Sales,Team Lead,119599,2018-12-19,Average,22,92.9,41
+EMP1431,Employee_431,Marketing,Team Lead,102355,2020-06-21,Good,20,92.16,28
+EMP1432,Employee_432,HR,Intern,121248,2021-09-17,Excellent,20,82.1,36
+EMP1433,Employee_433,Marketing,Executive,54762,2022-10-15,Good,29,80.81,44
+EMP1434,Employee_434,Sales,Manager,41046,2018-06-08,Excellent,12,65.72,35
+EMP1435,Employee_435,Sales,Executive,126999,2023-06-01,Good,1,91.01,44
+EMP1436,Employee_436,Sales,Executive,146021,2020-08-14,Poor,3,70.86,40
+EMP1437,Employee_437,Marketing,Team Lead,58769,2023-09-03,Good,27,79.87,50
+EMP1438,Employee_438,Sales,Intern,83302,2019-02-08,Average,5,71.37,41
+EMP1439,Employee_439,R&D,Analyst,53150,2019-05-31,Excellent,25,65.35,50
+EMP1440,Employee_440,Marketing,Intern,98247,2021-10-19,Excellent,26,85.18,45
+EMP1441,Employee_441,Sales,Intern,34853,2020-08-13,Excellent,22,62.17,39
+EMP1442,Employee_442,R&D,Executive,124613,2024-01-09,Good,26,89.95,31
+EMP1443,Employee_443,IT,Intern,119399,2022-09-09,Excellent,4,72.7,29
+EMP1444,Employee_444,Sales,Manager,51792,2019-08-31,Good,24,60.01,47
+EMP1445,Employee_445,Marketing,Executive,89129,2024-10-03,Good,2,80.45,50
+EMP1446,Employee_446,Finance,Manager,136019,2021-06-27,Good,0,61.87,31
+EMP1447,Employee_447,Sales,Analyst,104478,2022-03-16,Excellent,3,71.05,38
+EMP1448,Employee_448,Finance,Executive,143811,2024-07-10,Good,24,88.28,23
+EMP1449,Employee_449,R&D,Analyst,144130,2021-12-12,Poor,19,62.51,27
+EMP1450,Employee_450,IT,Executive,97298,2022-12-03,Average,1,93.57,26
+EMP1451,Employee_451,HR,Team Lead,61987,2018-10-22,Good,25,60.15,49
+EMP1452,Employee_452,IT,Intern,45850,2020-01-25,Excellent,29,69.87,26
+EMP1453,Employee_453,Sales,Team Lead,42112,2021-10-26,Poor,29,89.64,39
+EMP1454,Employee_454,Finance,Analyst,54058,2018-07-05,Average,4,72.65,47
+EMP1455,Employee_455,Finance,Intern,75420,2021-06-23,Good,2,64.08,41
+EMP1456,Employee_456,Marketing,Executive,68890,2019-09-29,Average,28,74.41,48
+EMP1457,Employee_457,Finance,Intern,96017,2021-07-15,Good,27,70.82,33
+EMP1458,Employee_458,Marketing,Manager,77304,2019-06-14,Good,28,93.71,28
+EMP1459,Employee_459,R&D,Intern,62921,2023-08-31,Average,8,72.53,24
+EMP1460,Employee_460,HR,Manager,135921,2020-03-04,Good,19,91.56,31
+EMP1461,Employee_461,Sales,Intern,31524,2023-11-18,Poor,5,95.67,55
+EMP1462,Employee_462,Marketing,Manager,130424,2019-04-23,Average,17,77.35,46
+EMP1463,Employee_463,HR,Analyst,45048,2022-06-11,Good,5,96.4,56
+EMP1464,Employee_464,Finance,Team Lead,65111,2020-07-28,Excellent,18,75.09,37
+EMP1465,Employee_465,Finance,Executive,67904,2019-06-10,Excellent,27,98.56,23
+EMP1466,Employee_466,HR,Intern,84912,2024-07-09,Good,11,63.57,45
+EMP1467,Employee_467,Finance,Team Lead,64008,2018-01-02,Average,24,87.48,31
+EMP1468,Employee_468,R&D,Executive,30060,2019-01-10,Good,10,79.75,59
+EMP1469,Employee_469,R&D,Executive,104666,2024-05-29,Good,1,75.51,43
+EMP1470,Employee_470,HR,Manager,113559,2019-07-07,Average,14,85.31,47
+EMP1471,Employee_471,Marketing,Analyst,85337,2024-06-23,Excellent,11,88.15,48
+EMP1472,Employee_472,Marketing,Analyst,140616,2022-03-06,Average,11,60.17,50
+EMP1473,Employee_473,HR,Team Lead,43350,2023-01-26,Excellent,8,66.68,59
+EMP1474,Employee_474,Marketing,Analyst,54354,2019-01-16,Poor,20,88.52,41
+EMP1475,Employee_475,Marketing,Intern,75186,2022-07-05,Good,23,86.66,48
+EMP1476,Employee_476,R&D,Analyst,58145,2018-01-14,Excellent,1,98.64,41
+EMP1477,Employee_477,Marketing,Team Lead,64020,2019-05-19,Good,21,90.44,40
+EMP1478,Employee_478,IT,Analyst,116123,2024-03-28,Good,2,98.03,41
+EMP1479,Employee_479,Sales,Intern,136667,2023-07-02,Average,11,88.1,56
+EMP1480,Employee_480,Finance,Manager,105186,2018-05-10,Average,27,71.92,23
+EMP1481,Employee_481,IT,Team Lead,115469,2020-04-17,Average,29,64.21,51
+EMP1482,Employee_482,Marketing,Manager,50581,2023-08-03,Excellent,25,91.27,55
+EMP1483,Employee_483,R&D,Manager,118929,2018-01-28,Excellent,15,85.77,43
+EMP1484,Employee_484,HR,Manager,53051,2023-10-15,Excellent,20,61.93,24
+EMP1485,Employee_485,Marketing,Executive,81474,2021-06-06,Good,27,74.4,27
+EMP1486,Employee_486,R&D,Executive,121748,2018-09-18,Average,23,98.27,36
+EMP1487,Employee_487,Sales,Manager,144618,2023-08-09,Good,25,80.02,48
+EMP1488,Employee_488,Marketing,Team Lead,99626,2022-01-12,Excellent,29,77.31,31
+EMP1489,Employee_489,HR,Intern,36960,2021-12-18,Good,0,78.31,30
+EMP1490,Employee_490,R&D,Intern,65772,2019-04-05,Average,20,68.36,54
+EMP1491,Employee_491,R&D,Analyst,51520,2018-10-28,Average,2,74.75,53
+EMP1492,Employee_492,R&D,Team Lead,79481,2024-05-23,Average,19,74.79,27
+EMP1493,Employee_493,Sales,Executive,66408,2019-09-22,Good,1,62.09,57
+EMP1494,Employee_494,Marketing,Manager,124006,2018-09-27,Excellent,8,90.7,23
+EMP1495,Employee_495,Sales,Analyst,87134,2023-06-17,Average,18,76.66,50
+EMP1496,Employee_496,Finance,Intern,50491,2022-06-17,Average,14,92.89,25
+EMP1497,Employee_497,Finance,Executive,31341,2022-12-07,Good,17,94.01,22
+EMP1498,Employee_498,Marketing,Executive,74623,2020-05-11,Average,25,68.48,40
+EMP1499,Employee_499,Sales,Manager,120327,2021-07-04,Average,10,86.29,47

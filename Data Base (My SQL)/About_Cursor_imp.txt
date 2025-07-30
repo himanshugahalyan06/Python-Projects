@@ -1,0 +1,67 @@
+Great question! Let's break it down clearly and simply.
+
+---
+
+### 🔹 What is `cursor()` in MySQL (Python)?
+
+When you use `mysql.connector.connect()` to connect to the MySQL server, it creates a **connection object**. This object allows you to communicate with the database server, but to **actually execute SQL queries** (like `SELECT`, `INSERT`, `CREATE`, etc.), you need a **cursor**.
+
+```python
+mycursor = mydb.cursor()
+```
+
+Here, `cursor()` creates a **cursor object** from the database connection. Think of the cursor as a **pointer** or **messenger** that:
+
+* Sends SQL queries to the database.
+* Receives results from the database.
+* Allows you to loop through result rows.
+
+---
+
+### 🔹 Why do we use it?
+
+We use the cursor to:
+
+1. **Execute SQL queries**
+
+   ```python
+   mycursor.execute("CREATE DATABASE mydb")
+   mycursor.execute("SELECT * FROM students")
+   ```
+
+2. **Fetch results**
+
+   ```python
+   result = mycursor.fetchall()
+   for row in result:
+       print(row)
+   ```
+
+3. **Prevent SQL injection (when used with parameters)**
+
+   ```python
+   mycursor.execute("INSERT INTO students (name, age) VALUES (%s, %s)", ("John", 22))
+   ```
+
+---
+
+### 🔸 Real-World Analogy
+
+* `mydb` = a **telephone connection** to the database
+* `cursor()` = the **person speaking on the phone**
+* `execute()` = sending a command through the phone
+* `fetchall()` = listening to the response
+
+---
+
+### ✅ Summary
+
+| Term         | Purpose                                        |
+| ------------ | ---------------------------------------------- |
+| `cursor()`   | Creates a cursor object to execute SQL queries |
+| `execute()`  | Runs a SQL query using the cursor              |
+| `fetchall()` | Gets the full result set of a query            |
+
+---
+
+

@@ -1,0 +1,11 @@
+Himanshu,1001,IT,500000
+Alisha,1002,HR,600000
+Muskan,1003,HR,500000
+Sahil,1004,Finance,600000
+Gopal,1005,IT,75000
+Diya,1006,Marketing,52000
+Arjun,1007,Operations,58000
+Meera,1008,Sales,61000
+Kabir,1009,IT,80000
+Anaya,1010,Finance,63000
+Rohan,1011,HR,48000

@@ -1,0 +1,16 @@
+
+bank_system/
+├── main.py                # For running the program
+├── models/
+│   ├── customer.py        # Customer class
+│   ├── account.py         # Account, SavingsAccount, CurrentAccount classes
+│   └── transaction.py     # Transaction class
+├── bank.py                # BankSystem class
+├── db/
+│   └── db_connection.py   # MySQL connection + helper methods
+└── test/
+    └── test_bank.py       # Unit tests
+
+
+
+    
